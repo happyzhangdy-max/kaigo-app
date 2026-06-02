@@ -12,6 +12,21 @@ dist
 dist-ssr
 *.local
 
+# Vite cache
+.vite
+
+# Screenshots
+screenshot*.png
+
+# Build artifacts from gh-pages
+/assets/
+/favicon.svg
+/icons.svg
+/manifest.webmanifest
+/registerSW.js
+/sw.js
+/workbox-*.js
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
