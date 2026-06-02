@@ -1,0 +1,130 @@
+/* 布局与通用组件 */
+
+.main {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 16px;
+  min-height: 100vh;
+}
+
+/* 按钮基础 */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 20px;
+  border-radius: var(--radius);
+  border: none;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s;
+  min-height: 44px; /* 触控最小高度 */
+  font-size: 1rem;
+}
+
+.btn:active { transform: scale(0.98); }
+
+.btn-primary {
+  background: var(--color-primary);
+  color: white;
+}
+
+.btn-primary:hover { background: var(--color-primary-dark); }
+
+/* Card 组件 */
+.card {
+  background: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: 20px;
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card-clickable:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+/* 问题卡片 */
+.question-card {
+  padding: 24px;
+}
+
+.question-text {
+  font-size: 1.1rem;
+  margin-bottom: 24px;
+  line-height: 1.8;
+}
+
+.question-choices {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.choice-btn {
+  width: 100%;
+  text-align: left;
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  padding: 16px;
+  border-radius: var(--radius);
+  font-size: 1rem;
+  transition: all 0.2s;
+}
+
+.choice-btn:active { background: var(--color-primary-light); }
+
+.choice-selected { border-color: var(--color-primary); background: #fdf5ec; }
+.choice-correct { background: var(--color-correct-bg); border-color: var(--color-correct); }
+.choice-wrong { background: var(--color-wrong-bg); border-color: var(--color-wrong); }
+
+/* 反馈 */
+.answer-feedback {
+  margin-top: 20px;
+  padding: 16px;
+  border-radius: var(--radius);
+}
+
+.feedback-correct { background: var(--color-correct-bg); color: var(--color-correct); }
+.feedback-wrong { background: var(--color-wrong-bg); color: var(--color-wrong); }
+
+/* 科目卡片 */
+.subject-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 20px;
+}
+
+.progress-bar-track {
+  height: 6px;
+  background: var(--color-border);
+  border-radius: 3px;
+  overflow: hidden;
+  margin-top: 8px;
+}
+
+.progress-bar-fill {
+  height: 100%;
+  background: var(--color-primary);
+}
+
+/* 导航 */
+.nav {
+  display: flex;
+  padding: 16px;
+  gap: 16px;
+  border-bottom: 1px solid var(--color-border);
+  background: var(--color-card);
+}
+
+/* 响应式调整 */
+@media (min-width: 768px) {
+  .subject-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+}
