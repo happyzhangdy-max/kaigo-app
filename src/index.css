@@ -7,7 +7,10 @@
   --color-card: #ffffff;
   --color-text: #4a4a4a; /* 炭灰色 */
   --color-text-light: #7a7a7a;
+  --color-text-secondary: #7a7a7a;
   --color-text-muted: #b0b0b0;
+  --color-bg-card: #ffffff;
+  --color-bg-hover: rgba(166, 124, 82, 0.1);
   --color-correct: #6b8e23; /* 橄榄绿(柔和) */
   --color-correct-bg: #f4f7ed;
   --color-wrong: #bc6e6e; /* 柔和红茶色 */
@@ -27,7 +30,10 @@
   --color-card: #3a3630;
   --color-text: #e0dcd5;
   --color-text-light: #a9a59e;
+  --color-text-secondary: #a9a59e;
   --color-border: #4a4640;
+  --color-bg-card: #3a3630;
+  --color-bg-hover: rgba(212, 180, 148, 0.12);
   --color-correct: #a2c16e;
   --color-correct-bg: #353d2d;
   --color-wrong: #d68787;
@@ -42,7 +48,10 @@
     --color-card: #3a3630;
     --color-text: #e0dcd5;
     --color-text-light: #a9a59e;
+    --color-text-secondary: #a9a59e;
     --color-border: #4a4640;
+    --color-bg-card: #3a3630;
+    --color-bg-hover: rgba(212, 180, 148, 0.12);
     --color-correct: #a2c16e;
     --color-correct-bg: #353d2d;
     --color-wrong: #d68787;

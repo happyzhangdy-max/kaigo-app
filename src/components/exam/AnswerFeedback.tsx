@@ -1,4 +1,5 @@
 import { useTranslation } from '../../i18n/useTranslation';
+import { resolveTermRefs } from '../../utils/terms';
 import type { Question } from '../../types';
 
 interface AnswerFeedbackProps {
@@ -10,11 +11,11 @@ interface AnswerFeedbackProps {
 export default function AnswerFeedback({
   question,
   isCorrect,
-  selectedChoice,
 }: AnswerFeedbackProps) {
   const { t, locale } = useTranslation();
   const explanation =
     locale === 'ja' ? question.ja_explanation : question.zh_explanation;
+  const relatedTerms = resolveTermRefs(question.term_refs);
 
   return (
     <div className={`answer-feedback ${isCorrect ? 'feedback-correct' : 'feedback-wrong'}`}>
@@ -41,6 +42,25 @@ export default function AnswerFeedback({
         <h4 className="feedback-explanation-title">{t('explanation.title')}</h4>
         <p>{explanation}</p>
       </div>
+
+      {relatedTerms.length > 0 && (
+        <div className="feedback-terms">
+          <h4 className="feedback-terms-title">{t('term.related')}</h4>
+          <ul className="feedback-terms-list">
+            {relatedTerms.map((term) => (
+              <li key={term.key} className="feedback-term">
+                <span className="feedback-term-name">
+                  {term.ja}
+                  {locale === 'zh' && term.zh !== term.ja && (
+                    <span className="feedback-term-zh">（{term.zh}）</span>
+                  )}
+                </span>
+                <span className="feedback-term-desc">{term.description}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
     </div>
   );
 }

@@ -11,27 +11,22 @@ interface DashboardProps {
 export default function Dashboard({ refreshKey = 0 }: DashboardProps) {
   const { t } = useTranslation();
   const [stats, setStats] = useState<LearningStats | null>(null);
-  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     let cancelled = false;
-    setLoading(true);
     getLearningStats().then((s) => {
-      if (!cancelled) {
-        setStats(s);
-        setLoading(false);
-      }
+      if (!cancelled) setStats(s);
     });
     return () => {
       cancelled = true;
     };
   }, [refreshKey]);
 
-  if (loading) {
+  if (stats === null) {
     return <div className="dashboard-loading">{t('loading')}</div>;
   }
 
-  if (!stats || stats.totalAnswered === 0) {
+  if (stats.totalAnswered === 0) {
     return (
       <div className="dashboard">
         <h2 className="dashboard-title">{t('dashboard.title')}</h2>

@@ -1,6 +1,5 @@
 import { useCallback } from 'react';
 import type { Question } from '../../types';
-import { useTranslation } from '../../i18n/useTranslation';
 
 interface QuestionCardProps {
   question: Question;
@@ -17,8 +16,6 @@ export default function QuestionCard({
   correctAnswer,
   onSelectChoice,
 }: QuestionCardProps) {
-  const { t, locale } = useTranslation();
-
   const getChoiceClass = useCallback(
     (index: number) => {
       const classes = ['choice-btn'];

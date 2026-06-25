@@ -31,8 +31,10 @@ export default function SubjectCard({
       </div>
       <div className="subject-card-meta">
         <span className="subject-card-count">
-          {stats ? `${stats.answered}/${stats.total}` : `0/0`}
-          {' '}{t('question.total', { n: stats?.total ?? 0 })}
+          {t('question.answered.of', {
+            answered: stats?.answered ?? 0,
+            total: stats?.total ?? 0,
+          })}
         </span>
         {stats && stats.answered > 0 && (
           <span className="subject-card-accuracy">{accuracy}%</span>

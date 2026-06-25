@@ -13,8 +13,11 @@
     "correct": 1,
     "ja_explanation": "介護福祉士の役割は、利用者の尊厳を尊重し、その自立した日常生活を支援することである。治療行為は医師、財産管理は成年後見制度などの別の制度が担う。全てを代わりに行うことは利用者の自立を妨げる。",
     "zh_explanation": "介护福利士的核心职责是尊重利用者尊严，支持其日常生活自立。治疗行为属于医生职责，财产管理由成年监护制度等其他体系负责。事事代办反而会阻碍利用者的自立能力。",
-    "term_refs": ["介護福祉士"],
-    "difficulty": "basic"
+    "term_refs": [
+      "介護福祉士"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kig002",
@@ -30,8 +33,11 @@
     "correct": 1,
     "ja_explanation": "尊厳の保持にはプライバシーへの配慮が不可欠である。入浴時のタオルかけは身体の露出を最小限にし、利用者の尊厳を守る具体的な対応である。他の選択肢は個人の尊厳や個別性を無視している。",
     "zh_explanation": "维护尊严必须注重隐私保护。沐浴时覆盖毛巾可最大限度减少身体暴露，是保护利用者尊严的具体措施。其他选项均忽略了个人尊严与个体差异。",
-    "term_refs": ["介護福祉士"],
-    "difficulty": "basic"
+    "term_refs": [
+      "介護福祉士"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kig003",
@@ -47,8 +53,11 @@
     "correct": 1,
     "ja_explanation": "ICFでは「活動」とは生活行為（課題や行為の個人による遂行）を指す。食事の準備ができないことは日常生活動作の遂行困難であり「活動制限」に該当する。関節可動域の制限は「心身機能」、地域参加の欠如は「参加制約」である。",
     "zh_explanation": "ICF中「活动」指个人执行生活行为（任务或动作）的能力。无法准备餐食属于日常生活动作执行困难，即「活动受限」。关节活动度限制属于「身心功能」层面，未参与社区活动属于「参与受限」。",
-    "term_refs": ["ICF"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "ICF"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kig004",
@@ -64,8 +73,11 @@
     "correct": 1,
     "ja_explanation": "ノーマライゼーションとは、障害の有無にかかわらず誰もが当たり前の生活を送れるようにする理念である。自分で食事の時間を選べることは日常生活の自己決定権を尊重し、この理念に合致する。",
     "zh_explanation": "正常化理念主张无论有无障碍，所有人都应能过上正常生活。让利用者自主选择用餐时间，尊重其日常生活的自主决定权，完全符合这一理念。",
-    "term_refs": ["ノーマライゼーション"],
-    "difficulty": "basic"
+    "term_refs": [
+      "ノーマライゼーション"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kig005",
@@ -81,8 +93,11 @@
     "correct": 1,
     "ja_explanation": "QOL（生活の質）は身体的側面だけでなく、精神的・社会的な豊かさを含む概念である。趣味や楽しみを生活に取り入れることは、利用者の生きがいや喜びにつながり、QOL向上に直結する。",
     "zh_explanation": "QOL（生活质量）不仅包含身体层面，还涵盖精神和社会层面的充实感。将兴趣爱好融入日常生活，能够为利用者带来生活意义和喜悦，直接提升QOL。",
-    "term_refs": ["QOL"],
-    "difficulty": "basic"
+    "term_refs": [
+      "QOL"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kig006",
@@ -98,8 +113,11 @@
     "correct": 0,
     "ja_explanation": "エンパワメントは、利用者が自らの力で生活をコントロールできるよう支援する考え方である。自分で役割を決めて実行することを支えるのは、利用者の主体性と自己決定を尊重した支援である。",
     "zh_explanation": "赋权（Empowerment）理念强调支持利用者自主掌控生活。让利用者自己决定家务分工并付诸实践，是尊重其主体性和自主决定权的支持方式。",
-    "term_refs": ["エンパワメント"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "エンパワメント"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kig007",
@@ -115,8 +133,11 @@
     "correct": 1,
     "ja_explanation": "チームケアでは各専門職が役割を分担する。介護福祉士は日常生活に最も近い立場で利用者の変化を観察し、それを医師や看護師、ケアマネジャーに報告・共有することが重要な役割である。",
     "zh_explanation": "团队护理中各专业人员分工协作。介护福利士最贴近利用者日常生活，观察其变化并向医生、护士、护理经理报告共享，这是其重要职责。",
-    "term_refs": ["チームケア"],
-    "difficulty": "basic"
+    "term_refs": [
+      "チームケア"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kig008",
@@ -132,8 +153,11 @@
     "correct": 1,
     "ja_explanation": "身体拘束は原則として禁止されており、例外として利用者本人または他の利用者の生命・身体を保護するため緊急やむを得ない場合に限り、最小限の範囲で行うことができる。その場合も記録・検討が義務付けられている。",
     "zh_explanation": "身体约束原则上禁止，仅在为保护利用者本人或他人生命身体安全、紧急不得已的情况下，才可在最小范围内实施。即便如此，也必须记录并定期审查。",
-    "term_refs": ["身体拘束"],
-    "difficulty": "basic"
+    "term_refs": [
+      "身体拘束"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kkatei001",
@@ -149,8 +173,12 @@
     "correct": 1,
     "ja_explanation": "アセスメントは、利用者の心身の状況、生活環境、ニーズを把握し、介護計画を立案するための情報収集・分析の過程である。診断は医師の役割である。",
     "zh_explanation": "评估（Assessment）是收集分析利用者心身状况、生活环境、需求等信息，为制定护理计划提供依据的过程。诊断是医生的职责领域。",
-    "term_refs": ["アセスメント", "介護過程"],
-    "difficulty": "basic"
+    "term_refs": [
+      "アセスメント",
+      "介護過程"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kkatei002",
@@ -166,8 +194,12 @@
     "correct": 1,
     "ja_explanation": "介護計画は利用者一人ひとりの状態や希望に応じて個別に作成されるべきものである。利用者の自己決定を尊重し、その人らしい生活を実現するための計画が求められる。",
     "zh_explanation": "护理计划应因人而异，根据每位利用者的状况和愿望个性化制定。必须尊重利用者的自主决定，以帮助其实现理想生活为目标。",
-    "term_refs": ["ケアプラン", "介護過程"],
-    "difficulty": "basic"
+    "term_refs": [
+      "ケアプラン",
+      "介護過程"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kkatei003",
@@ -183,8 +215,12 @@
     "correct": 1,
     "ja_explanation": "介護過程は一般的に「アセスメント（情報収集・分析）→計画立案→実施→評価」の順序で展開される。評価後に再度アセスメントを行い、計画を修正する循環プロセスである。",
     "zh_explanation": "护理过程通常按「评估（信息收集分析）→计划制定→实施→评价」的顺序展开。评价后再次评估并修改计划，形成循环过程。",
-    "term_refs": ["介護過程", "ケアプラン"],
-    "difficulty": "basic"
+    "term_refs": [
+      "介護過程",
+      "ケアプラン"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kkatei004",
@@ -200,8 +236,12 @@
     "correct": 0,
     "ja_explanation": "ICF（国际生活機能分類）は利用者の生活機能と障害を多面的に評価するツールとして介護過程のアセスメントに活用できる。MRIや血液検査は医療的診断に用いられる。",
     "zh_explanation": "ICF（国际功能、残疾和健康分类）可作为评估工具，从多维度分析利用者的生活功能和障碍状况，广泛应用于护理过程的评估阶段。MRI和血液检查属于医疗诊断手段。",
-    "term_refs": ["ICF", "介護過程"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "ICF",
+      "介護過程"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kkatei005",
@@ -217,8 +257,12 @@
     "correct": 1,
     "ja_explanation": "利用者のニーズ把握には、本人とのコミュニケーションによる意思の確認と、日々の生活場面での客観的な観察を組み合わせることが重要である。家族や記録のみでは利用者の真のニーズは把握できない。",
     "zh_explanation": "把握利用者需求，需要结合与本人的沟通确认其意愿，以及日常生活中的客观观察。仅靠家属或过往记录无法了解利用者的真实需求。",
-    "term_refs": ["アセスメント", "介護過程"],
-    "difficulty": "basic"
+    "term_refs": [
+      "アセスメント",
+      "介護過程"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kkatei006",
@@ -234,8 +278,11 @@
     "correct": 1,
     "ja_explanation": "個別ケアとは、利用者の生活歴、価値観、希望、状態に合わせてケアを提供することである。一人ひとりの違いを理解し、その人らしい生活を支援することが重要である。",
     "zh_explanation": "个别化护理是指根据每位利用者的生活经历、价值观、期望和状态提供相应的护理。理解每个人的差异，支持他们过上自己想要的生活至关重要。",
-    "term_refs": ["ケアプラン"],
-    "difficulty": "basic"
+    "term_refs": [
+      "ケアプラン"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kkatei007",
@@ -251,8 +298,12 @@
     "correct": 1,
     "ja_explanation": "モニタリングは、実施中の介護計画が利用者の状態やニーズに合っているかを定期的に確認し、必要に応じて計画を見直すためのプロセスである。介護過程の評価段階の一部である。",
     "zh_explanation": "监测是在护理计划实施过程中，定期确认计划是否符合利用者状态和需求，必要时进行调整的过程，属于护理过程中评价阶段的一环。",
-    "term_refs": ["ケアプラン", "介護過程"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "ケアプラン",
+      "介護過程"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kkatei008",
@@ -268,8 +319,11 @@
     "correct": 1,
     "ja_explanation": "SOAP形式の記録では、S（Subjective）は利用者の言葉での訴えや感情などの主観的情報を指す。O（Objective）は客観的観察事実、A（Assessment）は評価・分析、P（Plan）は計画である。",
     "zh_explanation": "SOAP记录格式中，S（Subjective）指利用者口头陈述的主观信息，如主诉、感受等。O（Objective）是客观观察事实，A（Assessment）是评估分析，P（Plan）是计划。",
-    "term_refs": ["介護過程"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "介護過程"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kninchi001",
@@ -285,8 +339,11 @@
     "correct": 1,
     "ja_explanation": "アルツハイマー型認知症では、初期から近時記憶障害（数分前や数時間前のことを忘れる）が特徴的に現れる。手足の震えはパーキンソン病などで見られる症状である。",
     "zh_explanation": "阿尔茨海默型认知症早期最典型的症状是近期记忆障碍（忘记几分钟或几小时前的事情）。手抖是帕金森病等疾病的症状。",
-    "term_refs": ["認知症"],
-    "difficulty": "basic"
+    "term_refs": [
+      "認知症"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kninchi002",
@@ -302,8 +359,11 @@
     "correct": 0,
     "ja_explanation": "レビー小体型認知症では、パーキンソン症状（手足の震え、動作緩慢、筋固縮など）と認知機能障害が同時に見られる。また、幻視（特に具体的な人や動物が見える）も特徴的である。",
     "zh_explanation": "路易体认知症的特征是同时出现帕金森症状（手抖、动作迟缓、肌强直等）和认知功能障碍。此外，幻视（尤其是看到具体的人或动物）也是典型表现。",
-    "term_refs": ["認知症"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "認知症"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kninchi003",
@@ -319,8 +379,11 @@
     "correct": 1,
     "ja_explanation": "認知症の人への対応では、本人の尊厳を守り、安心感を与えることが重要である。間違いを指摘すると不安や混乱を招く。本人のペースを尊重し、温かく見守る姿勢が基本である。",
     "zh_explanation": "照护认知症患者时，维护其尊严、给予安全感至关重要。当面指出错误会引发不安和混乱。尊重其节奏，以温暖守护的姿态应对是基本原则。",
-    "term_refs": ["認知症"],
-    "difficulty": "basic"
+    "term_refs": [
+      "認知症"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kninchi004",
@@ -336,8 +399,11 @@
     "correct": 1,
     "ja_explanation": "バリデーション療法は、認知症の人の言動の背後にある感情を理解し、共感することで安心感を提供するコミュニケーション技法である。否定や訂正をせず、その人の感情世界を受け入れる。",
     "zh_explanation": "确认疗法（Validation Therapy）是一种沟通技巧，通过理解认知症患者言行背后的情感并予以共情，提供安全感。不否定不纠正，接纳其情感世界。",
-    "term_refs": ["認知症"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "認知症"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kninchi005",
@@ -353,8 +419,11 @@
     "correct": 1,
     "ja_explanation": "BPSD（Behavioral and Psychological Symptoms of Dementia）とは認知症に伴う行動・心理症状で、徘徊、興奮、幻覚、妄想、不安、うつ状態などが含まれる。これらは環境や対応によって軽減できることが多い。",
     "zh_explanation": "BPSD（痴呆的行为和心理症状）包括徘徊、兴奋激动、幻觉、妄想、焦虑、抑郁等。这些症状往往可以通过改善环境和照护方式得到缓解。",
-    "term_refs": ["認知症"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "認知症"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kninchi006",
@@ -370,8 +439,11 @@
     "correct": 1,
     "ja_explanation": "認知症の人にとって、馴染みのある環境は安心感につながる。本人の生活歴に関連した物品や家族の写真などを置くことで、落ち着いた生活を送ることができる。急激な環境変化は混乱の原因となる。",
     "zh_explanation": "对于认知症患者，熟悉的环境能带来安全感。摆放与其生活经历相关的物品和家人的照片，有助于他们安享平静生活。环境剧烈变化会导致混乱。",
-    "term_refs": ["認知症"],
-    "difficulty": "basic"
+    "term_refs": [
+      "認知症"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kninchi007",
@@ -387,8 +459,11 @@
     "correct": 1,
     "ja_explanation": "回想法は、昔の写真や音楽などのきっかけを使って過去の思い出を語り合うことで、認知症の人の自尊心や生きる意欲を高める心理療法である。完了した過去の記憶は比較的保たれているためである。",
     "zh_explanation": "回忆疗法是通过老照片、音乐等媒介引导患者回忆往事，从而提升自尊心和生命活力的心理疗法。因为已经形成的远期记忆相对保存较好，这种方法往往效果显著。",
-    "term_refs": ["認知症"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "認知症"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kninchi008",
@@ -404,8 +479,11 @@
     "correct": 1,
     "ja_explanation": "認知症予防には、バランスの良い食事、適度な運動、社会的な交流、知的活動などが効果的とされている。生活習慣病の予防・管理も認知症リスクの低下につながる。",
     "zh_explanation": "预防认知症，均衡饮食、适度运动、社交互动、脑力活动等生活习惯被证明有效。预防和管理生活习惯病也有助于降低认知症风险。",
-    "term_refs": ["認知症"],
-    "difficulty": "basic"
+    "term_refs": [
+      "認知症"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kiryo001",
@@ -421,8 +499,11 @@
     "correct": 1,
     "ja_explanation": "介護福祉士が喀痰吸引を実施するには、所定の研修を修了し、「認定特定行為業務従事者」として登録される必要がある。医師の指示のもとで、登録された範囲内で実施できる。",
     "zh_explanation": "介护福利士实施吸痰操作，须完成规定培训课程，注册为「认定特定行为业务从业者」。必须在医生指示下，在注册范围内实施。",
-    "term_refs": ["喀痰吸引"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "喀痰吸引"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kiryo002",
@@ -438,8 +519,11 @@
     "correct": 1,
     "ja_explanation": "経管栄養後は、下痢、便秘、腹部膨満、逆流・誤嚥などの消化器症状が起こることがある。これらの異常を早期に発見するために腹部の状態や排泄の状況を観察することが重要である。",
     "zh_explanation": "管饲营养后可能出现腹泻、便秘、腹胀、反流误吸等消化道症状。为早期发现这些异常，观察腹部状态和排泄情况至关重要。",
-    "term_refs": ["経管栄養"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "経管栄養"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kiryo003",
@@ -455,8 +539,11 @@
     "correct": 2,
     "ja_explanation": "バイタルサインとは生命徴候のことで、一般的に体温、脈拍、呼吸、血圧の4項目を指す。身長はバイタルサインに含まれない。意識レベルやSpO2を含める場合もある。",
     "zh_explanation": "生命体征是指体温、脉搏、呼吸、血压四个基本项目。身高不属于生命体征。有时也会包括意识水平和血氧饱和度。",
-    "term_refs": ["バイタルサイン"],
-    "difficulty": "basic"
+    "term_refs": [
+      "バイタルサイン"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kiryo004",
@@ -472,8 +559,11 @@
     "correct": 1,
     "ja_explanation": "スタンダードプリコーションは、全ての患者・利用者の血液、体液、分泌物などを感染性があるものとして取り扱う考え方である。感染の有無が不明でも常に適切な予防策を取ることが基本である。",
     "zh_explanation": "标准预防措施（Standard Precautions）是将所有人的血液、体液、分泌物等均视为具有传染性来对待的理念。即使不清楚是否感染，也要始终采取适当的预防措施。",
-    "term_refs": ["感染対策"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "感染対策"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kiryo005",
@@ -489,8 +579,11 @@
     "correct": 1,
     "ja_explanation": "誤嚥性肺炎は口腔内の細菌が気管に入ることで発症する。適切な口腔ケアで口腔内を清潔に保ち、食事中は顎を引いた姿勢（前傾姿勢）を取ることで誤嚥リスクを大幅に減らせる。",
     "zh_explanation": "吸入性肺炎由口腔细菌进入气管引起。保持口腔清洁（适当的口腔护理）和进食时下巴微收的前倾姿势，可大幅降低误吸风险。",
-    "term_refs": ["感染対策"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "感染対策"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kiryo006",
@@ -506,8 +599,11 @@
     "correct": 1,
     "ja_explanation": "気道異物の初期対応は背部叩打法（背中を叩く）と腹部突き上げ法（ハイムリック法）である。水を飲ませるとさらに気道を塞ぐ危険がある。指での掻き出しは異物をさらに押し込む恐れがある。",
     "zh_explanation": "气道异物梗阻的初期应对是背部叩击法和腹部冲击法（海姆立克法）。喝水可能加重梗阻，用手指抠取可能将异物推得更深。",
-    "term_refs": ["バイタルサイン"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "バイタルサイン"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kiryo007",
@@ -523,8 +619,11 @@
     "correct": 1,
     "ja_explanation": "褥瘡予防の基本は、同じ部位に長時間圧力がかからないよう定期的に体位を変換し、体圧分散マットレスなどを使用して除圧することである。栄養状態の改善も重要である。",
     "zh_explanation": "预防褥疮的基本措施是定期更换体位以避免同一部位长时间受压，并使用减压床垫等进行压力分散。改善营养状况也很重要。",
-    "term_refs": ["褥瘡"],
-    "difficulty": "basic"
+    "term_refs": [
+      "褥瘡"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kiryo008",
@@ -540,8 +639,11 @@
     "correct": 1,
     "ja_explanation": "服薬介助後の観察と記録は介護福祉士の重要な役割である。薬の効能の判断や量の変更は医師の指示が必要であり、介護福祉士が独自に判断してはならない。薬を砕く場合も事前に確認が必要である。",
     "zh_explanation": "服药后的观察和记录是介护福利士的重要职责。药效判断和剂量调整需遵医嘱，介护福利士不得自行决定。即使需要碾碎药物也需事先确认。",
-    "term_refs": ["バイタルサイン"],
-    "difficulty": "basic"
+    "term_refs": [
+      "バイタルサイン"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kfukushi001",
@@ -557,8 +659,11 @@
     "correct": 1,
     "ja_explanation": "介護保険の第1号被保険者は65歳以上の全ての人である。40〜64歳の医療保険加入者は第2号被保険者であり、特定の疾病により要介護状態になった場合にのみ給付対象となる。",
     "zh_explanation": "护理保险的第1号被保险人为所有65岁以上者。40-64岁的医疗保险参保者为第2号被保险人，仅当因特定疾病需要护理时才享受给付。",
-    "term_refs": ["介護保険法"],
-    "difficulty": "basic"
+    "term_refs": [
+      "介護保険法"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kfukushi002",
@@ -574,8 +679,11 @@
     "correct": 1,
     "ja_explanation": "通所介護（デイサービス）は、利用者が施設に通い、食事・入浴・機能訓練などのサービスを受ける居宅サービスである。特別養護老人ホームなどは施設サービスに分類される。",
     "zh_explanation": "日间照料（日托服务）属于居家服务，利用者往返设施接受餐饮、沐浴、功能训练等服务。特别养护老人院等属于机构服务。",
-    "term_refs": ["介護保険法"],
-    "difficulty": "basic"
+    "term_refs": [
+      "介護保険法"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kfukushi003",
@@ -591,8 +699,11 @@
     "correct": 1,
     "ja_explanation": "成年後見制度は、認知症や知的障害などで判断能力が不十分な人の財産管理や契約行為を支援し、その権利を保護するための制度である。利用者の自己決定を尊重しながら支援することが重要である。",
     "zh_explanation": "成年监护制度是为因认知症、智力障碍等导致判断能力不足的人提供财产管理和合同行为支持，保护其权利的制度。在尊重利用者自主决定的同时提供支援。",
-    "term_refs": ["成年後見制度"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "成年後見制度"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kfukushi004",
@@ -608,8 +719,12 @@
     "correct": 1,
     "ja_explanation": "ケアマネジメントは、まず利用者の心身状況や生活環境、ニーズを把握するアセスメント（課題分析）から始まる。その結果に基づいてケアプランを作成し、サービスの調整・実施、評価へと進む。",
     "zh_explanation": "护理管理首先从评估（课题分析）开始，掌握利用者的身心状况、生活环境及需求。基于评估结果制定护理计划，再推进服务协调、实施和评价。",
-    "term_refs": ["ケアマネジメント", "ケアプラン"],
-    "difficulty": "basic"
+    "term_refs": [
+      "ケアマネジメント",
+      "ケアプラン"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kfukushi005",
@@ -625,8 +740,11 @@
     "correct": 1,
     "ja_explanation": "インフォーマルな社会資源とは、制度に基づかない非公式な支援資源のことである。民生委員・児童委員はボランティアベースの公的な役割だが、制度的な介護サービスではなく地域のインフォーマル資源に分類される。他は介護保険制度に基づくフォーマルサービスである。",
     "zh_explanation": "非正式社会资源指非制度性的非正式支援资源。民生委员·儿童委员是志愿者性质的公共服务角色，不属于制度性护理服务，归类为地区非正式资源。其他选项均为基于护理保险制度的正式服务。",
-    "term_refs": ["ケアマネジメント"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "ケアマネジメント"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kfukushi006",
@@ -642,8 +760,11 @@
     "correct": 1,
     "ja_explanation": "地域包括ケアシステムは、重度の要介護状態になっても、住み慣れた地域で自分らしい生活を続けられるよう、医療・介護・予防・住まい・生活支援を一体的に提供する体制である。",
     "zh_explanation": "地域综合护理系统是指即使在重度需要护理的状态下，也能在熟悉的社区继续过自己想要的生活，通过医疗、护理、预防、居住、生活支援一体化提供的体制。",
-    "term_refs": ["ケアマネジメント"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "ケアマネジメント"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kfukushi007",
@@ -659,8 +780,11 @@
     "correct": 1,
     "ja_explanation": "ユニバーサルデザインは、年齢や障害の有無にかかわらず、できるだけ多くの人が使いやすいように設計する考え方である。段差のない設計は全ての人にとって使いやすい環境となる。",
     "zh_explanation": "通用设计理念主张无论年龄和有无障碍，尽可能让更多人方便使用。无台阶设计对所有人群都更加友好。",
-    "term_refs": ["ユニバーサルデザイン"],
-    "difficulty": "basic"
+    "term_refs": [
+      "ユニバーサルデザイン"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kfukushi008",
@@ -676,8 +800,11 @@
     "correct": 3,
     "ja_explanation": "高齢者虐待防止法で定義されている虐待は、身体的虐待、心理的虐待、介護放棄（ネグレクト）、経済的虐待の4つである。自己放任（セルフネグレクト）はこの法律の直接の対象ではないが、高齢者自身による自己放任も深刻な問題である。",
     "zh_explanation": "《防止虐待老年人法》定义的虐待包括：身体虐待、心理虐待、护理放弃（忽视）、经济虐待四种。自我放任（Self-neglect）不在此法直接调整范围内，但同样是严重问题。",
-    "term_refs": ["成年後見制度"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "成年後見制度"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kkokoro001",
@@ -693,8 +820,11 @@
     "correct": 1,
     "ja_explanation": "関節可動域訓練は、痛みのない範囲でゆっくりと関節を動かし、関節の硬化を予防する。無理に行うと関節や筋肉を損傷する恐れがある。毎日複数回行うことが望ましい。",
     "zh_explanation": "关节活动度训练应在无痛范围内缓慢活动关节，预防关节硬化。强行操作可能导致关节或肌肉损伤。建议每日进行多次。",
-    "term_refs": ["拘縮"],
-    "difficulty": "basic"
+    "term_refs": [
+      "拘縮"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kkokoro002",
@@ -710,8 +840,11 @@
     "correct": 1,
     "ja_explanation": "脳血管疾患の後遺症として最も多いのは片麻痺である。脳の損傷部位により左右どちらかの半身に運動麻痺が生じる。また、失語症や高次脳機能障害などの症状も見られることがある。",
     "zh_explanation": "脑血管疾病（中风）最常见的后遗症是偏瘫。根据脑损伤部位，身体左侧或右侧出现运动麻痹。有时还会伴有失语症和高级脑功能障碍等症状。",
-    "term_refs": ["拘縮"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "拘縮"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kkokoro003",
@@ -727,8 +860,11 @@
     "correct": 1,
     "ja_explanation": "加齢により筋肉量と筋力が低下する現象をサルコペニアという。また、基礎代謝は低下し、味覚は鈍くなり、骨密度は減少する。これらの変化を理解した上での介護が必要である。",
     "zh_explanation": "随年龄增长肌肉量和力量下降的现象称为肌肉减少症（Sarcopenia）。此外，基础代谢降低、味觉迟钝、骨密度减少。需要在理解这些变化的基础上提供护理。",
-    "term_refs": ["拘縮"],
-    "difficulty": "basic"
+    "term_refs": [
+      "拘縮"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kkokoro004",
@@ -744,8 +880,11 @@
     "correct": 1,
     "ja_explanation": "マズローは人間の欲求を5段階に分類し、最も低次で基本的なものとして生理的欲求（食欲、睡眠、呼吸など）を挙げた。その上に安全の欲求、所属と愛の欲求、承認欲求、自己実現欲求が続く。",
     "zh_explanation": "马斯洛将人类需求分为五个层次，最基本的生理需求（食物、睡眠、呼吸等）位于最底层。之上依次为安全需求、归属与爱需求、尊重需求、自我实现需求。",
-    "term_refs": ["QOL"],
-    "difficulty": "basic"
+    "term_refs": [
+      "QOL"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kkokoro005",
@@ -761,8 +900,11 @@
     "correct": 0,
     "ja_explanation": "高齢者は免疫力が低下し、また嚥下機能の低下により誤嚥のリスクが高まるため、肺炎（特に誤嚥性肺炎）を発症しやすい。口腔ケアや食事姿勢の調整が予防に重要である。",
     "zh_explanation": "老年人免疫力下降，同时吞咽功能减退导致误吸风险增加，因此易患肺炎（尤其是吸入性肺炎）。口腔护理和调整进食姿势对预防至关重要。",
-    "term_refs": ["感染対策"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "感染対策"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kkokoro006",
@@ -778,8 +920,11 @@
     "correct": 0,
     "ja_explanation": "高齢者のうつ状態は、若年者と異なり「気分の落ち込み」よりも頭痛、肩こり、倦怠感、食欲不振などの身体症状として現れることが多い。認知症と誤認されやすいため注意が必要である。",
     "zh_explanation": "老年人的抑郁状态与年轻人不同，往往不表现为「情绪低落」，而是以头痛、肩酸、倦怠、食欲不振等身体症状呈现，容易被误认为是认知症。",
-    "term_refs": ["QOL"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "QOL"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kkokoro007",
@@ -795,8 +940,11 @@
     "correct": 0,
     "ja_explanation": "パーキンソン病の3主徴は、振戦（手足の震え）、筋固縮（筋肉のこわばり）、無動・動作緩慢である。これらにより歩行障害や姿勢保持障害が生じる。治療には薬物療法とリハビリテーションが重要である。",
     "zh_explanation": "帕金森病的三大主征为：震颤（手脚发抖）、肌强直（肌肉僵硬）、运动不能/运动迟缓。这些症状导致步行障碍和姿势保持障碍，治疗以药物疗法和康复训练为主。",
-    "term_refs": ["拘縮"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "拘縮"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kkokoro008",
@@ -812,8 +960,11 @@
     "correct": 0,
     "ja_explanation": "骨粗鬆症予防には、カルシウムやビタミンDの適切な摂取と、歩行などの体重が骨にかかる運動（体重負荷運動）が効果的である。安静にしすぎると骨密度がさらに低下する。",
     "zh_explanation": "预防骨质疏松应适当摄入钙和维生素D，并进行步行等体重负荷运动。过度静养反而会导致骨密度进一步下降。",
-    "term_refs": ["拘縮"],
-    "difficulty": "basic"
+    "term_refs": [
+      "拘縮"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kcom001",
@@ -830,7 +981,8 @@
     "ja_explanation": "積極的傾聴は、相手の話に集中し、非言語的な反応（うなずき、アイコンタクト、相づち）を示しながら聴く技法である。相手の気持ちを理解し、信頼関係を構築する上で重要である。",
     "zh_explanation": "积极倾听是一种专注于对方讲话、通过非语言反应（点头、眼神接触、附和）来倾听的技巧，有助于理解对方感受并建立信任关系。",
     "term_refs": [],
-    "difficulty": "basic"
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kcom002",
@@ -846,8 +998,11 @@
     "correct": 1,
     "ja_explanation": "認知症の人の繰り返しは、記憶障害によるものであり、注意すると不安を強める。毎回初めての話として温かく対応することで、本人の安心感につながる。否定せずに受け入れる姿勢が大切である。",
     "zh_explanation": "认知症患者的重复言行源于记忆障碍，批评会加剧其不安。每次都当作第一次听到来温暖回应，能带给患者安全感。不否定、接纳的态度非常重要。",
-    "term_refs": ["認知症"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "認知症"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
   },
   {
     "id": "kkatei009",
@@ -863,8 +1018,11 @@
     "correct": 1,
     "ja_explanation": "介護記録は客観的事実を正確に記載することが基本である。「〜と思われる」などの主観的推測を多く含めることは適切ではない。観察した事実と、それに基づく判断は区別して記録する必要がある。",
     "zh_explanation": "护理记录的基本原则是准确记录客观事实。过多使用「似乎…」等主观推测不妥。必须区分观察事实和基于事实的判断。",
-    "term_refs": ["介護過程"],
-    "difficulty": "basic"
+    "term_refs": [
+      "介護過程"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kkatei010",
@@ -880,8 +1038,12 @@
     "correct": 1,
     "ja_explanation": "チームアプローチでは、介護職、看護師、ケアマネジャー、医師、リハビリ職など多様な専門職がそれぞれの視点から情報を共有し、総合的な支援を提供できる。これにより利用者の多面的なニーズに対応できる。",
     "zh_explanation": "团队协作法中，介护人员、护士、护理经理、医生、康复师等多专业人员从各自专业视角共享信息，提供综合性支援，从而满足利用者多方面的需求。",
-    "term_refs": ["チームケア", "介護過程"],
-    "difficulty": "basic"
+    "term_refs": [
+      "チームケア",
+      "介護過程"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kfukushi009",
@@ -897,8 +1059,11 @@
     "correct": 0,
     "ja_explanation": "介護保険法の基本理念は、利用者の意思と尊厳を尊重し、その自立した日常生活を支援することである。また、可能な限り住み慣れた地域で生活を続けられるよう配慮することを掲げている。",
     "zh_explanation": "护理保险法的基本理念是尊重利用者意愿和尊严，支持其自立日常生活。同时强调尽可能让利用者在熟悉的社区继续生活。",
-    "term_refs": ["介護保険法"],
-    "difficulty": "basic"
+    "term_refs": [
+      "介護保険法"
+    ],
+    "difficulty": "basic",
+    "examType": "national"
   },
   {
     "id": "kfukushi010",
@@ -914,7 +1079,1766 @@
     "correct": 1,
     "ja_explanation": "ケアマネジャーは、利用者がその状態に応じて適切な介護サービスを受けられるよう、ケアプランの作成やサービス事業者との連絡・調整を行う役割である。直接介護や保険料徴収は担当しない。",
     "zh_explanation": "护理经理负责根据利用者状况制定护理计划、与服务机构联络协调，确保利用者获得适当服务。不直接提供身体护理，也不负责保险费征收。",
-    "term_refs": ["ケアマネジメント"],
-    "difficulty": "intermediate"
+    "term_refs": [
+      "ケアマネジメント"
+    ],
+    "difficulty": "intermediate",
+    "examType": "national"
+  },
+  {
+    "id": "sk001",
+    "subject": "介護の基本",
+    "question": "介護職員の基本的な役割として、最も適切なものはどれか。",
+    "choices": [
+      "利用者の治療を行う",
+      "利用者の生活を支援し、自立を促す",
+      "利用者の財産を管理する",
+      "家族の代わりに全ての家事を行う"
+    ],
+    "correct": 1,
+    "ja_explanation": "介護職員の役割は、利用者の自立した日常生活を支援することである。治療行為は医師、財産管理は成年後見制度などが担当する。",
+    "zh_explanation": "介护职员的核心职责是支持利用者自立生活。治疗行为由医生负责，财产管理由成年监护制度等负责。",
+    "term_refs": [
+      "介護職員"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "介護職の役割"
+  },
+  {
+    "id": "sk002",
+    "subject": "介護の基本",
+    "question": "利用者の尊厳を守るための対応として、最も適切なものはどれか。",
+    "choices": [
+      "利用者の前で他の利用者の介護内容を話題にする",
+      "排泄介助の際はプライバシーに配慮する",
+      "利用者の希望よりも職員の都合を優先する",
+      "全ての利用者を同じ時刻に起こす"
+    ],
+    "correct": 1,
+    "ja_explanation": "尊厳保持にはプライバシー保護が不可欠。排泄介助では個別性を尊重し、身体を露出させない配慮が必要である。",
+    "zh_explanation": "维护尊严必须保护隐私。排泄护理中需尊重个体差异，注意避免身体暴露。",
+    "term_refs": [
+      "尊厳"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "尊厳の保持"
+  },
+  {
+    "id": "sk003",
+    "subject": "介護の基本",
+    "question": "介護における「自立支援」の考え方として、最も適切なものはどれか。",
+    "choices": [
+      "利用者ができないことは全て職員が代わりに行う",
+      "利用者ができることは自分で行うよう促し、足りない部分だけを支援する",
+      "安全第一のために全て職員が行う",
+      "家族に全ての介護を任せる"
+    ],
+    "correct": 1,
+    "ja_explanation": "自立支援とは、利用者の残存能力を活かし、できることは自分で行うよう促しながら、不足する部分のみを支援する考え方である。",
+    "zh_explanation": "自立支援是指发挥利用者的残余能力，鼓励做力所能及之事，仅对不足部分提供支援。",
+    "term_refs": [
+      "自立支援"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "自立支援"
+  },
+  {
+    "id": "sk004",
+    "subject": "介護の基本",
+    "question": "ICF（国際生活機能分類）の「参加」に該当するものはどれか。",
+    "choices": [
+      "関節が曲がりにくい",
+      "食事の準備が一人でできない",
+      "地域のサークル活動に参加していない",
+      "血圧が高い"
+    ],
+    "correct": 2,
+    "ja_explanation": "ICFにおいて「参加」とは、社会情勢への関わりのことを指す。地域活動への不参加は「参加制約」に該当する。",
+    "zh_explanation": "ICF中「参与」指社会生活的参与情况。不参加社区活动属于「参与限制」。",
+    "term_refs": [
+      "ICF"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill",
+    "category": "ICF"
+  },
+  {
+    "id": "sk005",
+    "subject": "介護の基本",
+    "question": "ノーマライゼーションの理念に基づく介護実践として、最も適切なものはどれか。",
+    "choices": [
+      "障がいのある人を施設に隔離する",
+      "障がいの有無にかかわらず地域で共に暮らせるよう支援する",
+      "同じプログラムを全員に課す",
+      "家族が全ての世話をするのが理想的である"
+    ],
+    "correct": 1,
+    "ja_explanation": "ノーマライゼーションは、障がいのある人もない人も地域で普通に暮らせる社会を目指す理念である。",
+    "zh_explanation": "正常化理念旨在实现不论有无障碍都能在社区中共同生活的社会。",
+    "term_refs": [
+      "ノーマライゼーション"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "ノーマライゼーション"
+  },
+  {
+    "id": "sk006",
+    "subject": "介護の基本",
+    "question": "利用者の意思決定を支援する方法として、最も適切なものはどれか。",
+    "choices": [
+      "職員が全ての決定を行う",
+      "わかりやすく情報を提供し、本人が決められるよう支援する",
+      "家族の意見のみを尊重する",
+      "利用者に任せず職員が判断する"
+    ],
+    "correct": 1,
+    "ja_explanation": "利用者の自己決定を支援するには、理解しやすい形で情報を提供し、本人が主体的に判断できるよう支えることが重要である。",
+    "zh_explanation": "支持利用者自主决策，应以易于理解的方式提供信息，帮助其自主判断。",
+    "term_refs": [
+      "自己決定"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "利用者尊重"
+  },
+  {
+    "id": "sk007",
+    "subject": "介護の基本",
+    "question": "介護現場における個人情報の取扱いとして、適切でないものはどれか。",
+    "choices": [
+      "記録は施錠できる場所で保管する",
+      "利用者の情報を家族に無断で他の利用者に話す",
+      "パソコンのパスワードを設定する",
+      "不要になった個人情報は適切に破棄する"
+    ],
+    "correct": 1,
+    "ja_explanation": "利用者の個人情報は、本人の同意なく第三者に提供してはならない。",
+    "zh_explanation": "不得未经本人同意将利用者的个人信息提供给第三方。",
+    "term_refs": [
+      "個人情報"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "個人情報保護"
+  },
+  {
+    "id": "sk008",
+    "subject": "介護の基本",
+    "question": "多職種連携（チームアプローチ）の利点として、最も適切なものはどれか。",
+    "choices": [
+      "各職種が個別に計画を立てる",
+      "多様な専門的視点から総合的な支援が可能になる",
+      "介護職だけが利用者と関わればよい",
+      "情報共有は最小限でよい"
+    ],
+    "correct": 1,
+    "ja_explanation": "多職種連携により、それぞれの専門性を活かした総合的な支援を提供できる。",
+    "zh_explanation": "多专业协作能发挥各自专业性，提供综合性的支援。",
+    "term_refs": [
+      "多職種連携"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "チームアプローチ"
+  },
+  {
+    "id": "sk009",
+    "subject": "介護の基本",
+    "question": "介護保険制度の被保険者となるのは何歳以上か。",
+    "choices": [
+      "20歳以上",
+      "40歳以上",
+      "65歳以上",
+      "75歳以上"
+    ],
+    "correct": 1,
+    "ja_explanation": "介護保険の被保険者は40歳以上。第1号被保険者は65歳以上、第2号被保険者は40〜64歳である。",
+    "zh_explanation": "介护保险的被保险人为40岁以上。第1号被保险人为65岁以上，第2号被保险人为40〜64岁。",
+    "term_refs": [
+      "介護保険"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "介護保険制度"
+  },
+  {
+    "id": "sk010",
+    "subject": "介護の基本",
+    "question": "要介護認定の申請先として、正しいものはどれか。",
+    "choices": [
+      "都道府県",
+      "市区町村",
+      "介護施設",
+      "かかりつけ医"
+    ],
+    "correct": 1,
+    "ja_explanation": "要介護認定の申請は、原則として市区町村が窓口となる。",
+    "zh_explanation": "要介护认定的申请窗口原则上为市区町村。",
+    "term_refs": [
+      "要介護認定"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "介護保険制度"
+  },
+  {
+    "id": "sk011",
+    "subject": "介護の基本",
+    "question": "ケアマネジメントのプロセスとして、最初に行うべきものはどれか。",
+    "choices": [
+      "ケア計画の実施",
+      "アセスメント（評価）",
+      "モニタリング",
+      "サービスの評価"
+    ],
+    "correct": 1,
+    "ja_explanation": "ケアマネジメントはアセスメントから始まり、計画立案→実施→モニタリング→評価のサイクルで進む。",
+    "zh_explanation": "照护管理从评估开始，按计划→实施→监测→评价的循环推进。",
+    "term_refs": [
+      "ケアマネジメント"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "ケアマネジメント"
+  },
+  {
+    "id": "sk012",
+    "subject": "介護の基本",
+    "question": "介護職員の職業倫理に関する記述として、適切なものはどれか。",
+    "choices": [
+      "利用者との金銭貸借は問題ない",
+      "守秘義務を遵守し、職場外で利用者の情報を話さない",
+      "利用者の家族から高額な謝礼を受け取ってもよい",
+      "業務中に私用の電話をかけてもよい"
+    ],
+    "correct": 1,
+    "ja_explanation": "介護職員は守秘義務を負い、職務上知り得た利用者の情報を外部に漏らしてはならない。",
+    "zh_explanation": "介护职员负有保密义务，不得将工作中知悉的利用者信息泄露给外部。",
+    "term_refs": [
+      "職業倫理",
+      "守秘義務"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill",
+    "category": "職業倫理"
+  },
+  {
+    "id": "sk013",
+    "subject": "介護の基本",
+    "question": "高齢者虐待防止法で定義される「虐待」に該当するものはどれか。",
+    "choices": [
+      "定期的な声かけ",
+      "食事の見守り",
+      "身体的暴力を加える",
+      "入浴介助を行う"
+    ],
+    "correct": 2,
+    "ja_explanation": "高齢者虐待防止法では身体的虐待、心理的虐待、介護放棄、経済的虐待、性的虐待を虐待と定義している。",
+    "zh_explanation": "《老年人虐待防止法》将身体虐待、心理虐待、放弃护理、经济虐待、性虐待定义为虐待。",
+    "term_refs": [
+      "高齢者虐待"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill",
+    "category": "権利擁護"
+  },
+  {
+    "id": "sk014",
+    "subject": "介護の基本",
+    "question": "介護現場における標準予防策（スタンダードプリコーション）の基本として最も重要なものはどれか。",
+    "choices": [
+      "手洗いの徹底",
+      "利用者ごとに手袋を交換しない",
+      "マスクは一日中同じものを使う",
+      "清潔区域と不潔区域を区別しない"
+    ],
+    "correct": 0,
+    "ja_explanation": "標準予防策の基本は手洗い（手指衛生）である。手袋は利用者ごとに交換し、清潔と不潔の区別が必要。",
+    "zh_explanation": "标准预防措施的基础是洗手（手部卫生）。手套需每名利用者更换，需区分清洁和污染区域。",
+    "term_refs": [
+      "感染対策"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "感染対策"
+  },
+  {
+    "id": "sk015",
+    "subject": "介護の基本",
+    "question": "介護施設で火災が発生した場合の初期対応として、最も優先すべきことはどれか。",
+    "choices": [
+      "消火器で消火する",
+      "利用者の避難誘導を行う",
+      "自分の荷物をまとめる",
+      "記録を保管する"
+    ],
+    "correct": 1,
+    "ja_explanation": "火災発生時の最優先事項は利用者の安全確保である。人命を最優先に行動する。",
+    "zh_explanation": "火灾发生时最优先的事项是确保利用者安全。人命最优先。",
+    "term_refs": [
+      "緊急時対応"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill",
+    "category": "緊急時対応"
+  },
+  {
+    "id": "sk016",
+    "subject": "こころとからだのしくみ",
+    "question": "加齢に伴う身体の変化として、正しいものはどれか。",
+    "choices": [
+      "筋力が増加する",
+      "骨密度が減少する",
+      "視力が良くなる",
+      "代謝が活発になる"
+    ],
+    "correct": 1,
+    "ja_explanation": "加齢により筋力低下、骨密度減少、視力低下、代謝低下が生じる。",
+    "zh_explanation": "随年龄增长会出现肌力下降、骨密度减少、视力下降、代谢降低。",
+    "term_refs": [
+      "老化"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "老化に伴う変化"
+  },
+  {
+    "id": "sk017",
+    "subject": "こころとからだのしくみ",
+    "question": "加齢に伴う認知機能の変化として、正しいものはどれか。",
+    "choices": [
+      "新しいことを覚える能力が向上する",
+      "判断力が低下することがある",
+      "記憶力は全く変化しない",
+      "注意力が高まる"
+    ],
+    "correct": 1,
+    "ja_explanation": "加齢により新しい記憶の形成や判断力、注意力が低下することがある。個人差が大きい。",
+    "zh_explanation": "随年龄增长，新记忆的形成能力、判断力、注意力可能下降。个体差异较大。",
+    "term_refs": [
+      "認知機能"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "老化に伴う変化"
+  },
+  {
+    "id": "sk018",
+    "subject": "こころとからだのしくみ",
+    "question": "認知症の症状のうち「中核症状」に該当するものはどれか。",
+    "choices": [
+      "幻覚",
+      "徘徊",
+      "記憶障害",
+      "暴力行為"
+    ],
+    "correct": 2,
+    "ja_explanation": "記憶障害、見当識障害、理解判断力障害などは中核症状である。幻覚や徘徊、暴力行為は周辺症状（BPSD）。",
+    "zh_explanation": "记忆障碍、定向障碍、理解判断障碍等是核心症状。幻觉、徘徊、暴力行为是周围症状（BPSD）。",
+    "term_refs": [
+      "認知症",
+      "中核症状"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill",
+    "category": "認知症の理解"
+  },
+  {
+    "id": "sk019",
+    "subject": "こころとからだのしくみ",
+    "question": "認知症の人とのコミュニケーションで適切なのはどれか。",
+    "choices": [
+      "大きな声で叱る",
+      "簡単な言葉でゆっくり話す",
+      "たくさんの情報を一度に伝える",
+      "間違いを細かく指摘する"
+    ],
+    "correct": 1,
+    "ja_explanation": "認知症の人には、簡単な言葉でゆっくり、一つずつ伝えることが大切。叱ったり間違いを指摘すると不安や混乱を強める。",
+    "zh_explanation": "对认知症患者应使用简单的语言慢慢说、一次讲一件事。斥责或指出错误会加剧其不安和混乱。",
+    "term_refs": [
+      "認知症"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "認知症の理解"
+  },
+  {
+    "id": "sk020",
+    "subject": "こころとからだのしくみ",
+    "question": "高齢者が嚥下機能の低下により起こりやすいものはどれか。",
+    "choices": [
+      "便秘",
+      "誤嚥性肺炎",
+      "骨折",
+      "脱水"
+    ],
+    "correct": 1,
+    "ja_explanation": "加齢により嚥下機能が低下すると、食べ物や唾液が気管に入る誤嚥が起こりやすくなり、誤嚥性肺炎のリスクが高まる。",
+    "zh_explanation": "随年龄增长吞咽功能下降，食物或唾液易进入气管导致误吸，增加误吸性肺炎风险。",
+    "term_refs": [
+      "嚥下",
+      "誤嚥性肺炎"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill",
+    "category": "身体の構造と機能"
+  },
+  {
+    "id": "sk021",
+    "subject": "こころとからだのしくみ",
+    "question": "高齢者の骨折で最も多い原因はどれか。",
+    "choices": [
+      "交通事故",
+      "転倒",
+      "くしゃみ",
+      "スポーツ"
+    ],
+    "correct": 1,
+    "ja_explanation": "高齢者の骨折の多くは転倒によるものである。特に大腿骨頸部骨折は寝たきりの原因になりやすい。",
+    "zh_explanation": "老年人骨折多由跌倒引起。尤其是股骨颈部骨折容易导致卧床不起。",
+    "term_refs": [
+      "骨折",
+      "転倒"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "身体の構造と機能"
+  },
+  {
+    "id": "sk022",
+    "subject": "こころとからだのしくみ",
+    "question": "高齢者によく見られる心理的変化として、適切なものはどれか。",
+    "choices": [
+      "好奇心の向上",
+      "依存心の増加",
+      "自立心の向上",
+      "攻撃性のみ増加"
+    ],
+    "correct": 1,
+    "ja_explanation": "加齢に伴い身体機能の低下や社会的役割の喪失などから、依存心が増加することがある。",
+    "zh_explanation": "随年龄增长，因身体功能下降和社会角色丧失，依赖心可能增强。",
+    "term_refs": [],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "心理的変化"
+  },
+  {
+    "id": "sk023",
+    "subject": "こころとからだのしくみ",
+    "question": "老年期うつ病の特徴として、適切なものはどれか。",
+    "choices": [
+      "活動性が高まる",
+      "身体の不調を訴えることが多い",
+      "食欲が増進する",
+      "睡眠時間が長くなる"
+    ],
+    "correct": 1,
+    "ja_explanation": "老年期うつ病は身体症状（頭痛、倦怠感など）として現れることが多く、認知症と間違われやすい。",
+    "zh_explanation": "老年期抑郁症常表现为身体症状（头痛、倦怠感等），容易与认知症混淆。",
+    "term_refs": [
+      "うつ病"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill",
+    "category": "精神疾患の理解"
+  },
+  {
+    "id": "sk024",
+    "subject": "こころとからだのしくみ",
+    "question": "加齢に伴う聴覚の変化として、正しいものはどれか。",
+    "choices": [
+      "高音域が聞こえにくくなる",
+      "全ての音が大きく聞こえる",
+      "聞こえ方は全く変化しない",
+      "低音域だけが聞こえにくくなる"
+    ],
+    "correct": 0,
+    "ja_explanation": "加齢により高音域の聴力が低下する（老人性難聴）。低めの声でゆっくり話すと伝わりやすい。",
+    "zh_explanation": "随年龄增长高频听力下降（老年性耳聋）。用较低沉的声音慢慢讲更易听清。",
+    "term_refs": [
+      "難聴"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "感覚機能の変化"
+  },
+  {
+    "id": "sk025",
+    "subject": "こころとからだのしくみ",
+    "question": "高齢者の睡眠の特徴として、正しいものはどれか。",
+    "choices": [
+      "深い睡眠が増加する",
+      "夜間覚醒が増加する",
+      "必要な睡眠時間が増える",
+      "入眠が容易になる"
+    ],
+    "correct": 1,
+    "ja_explanation": "加齢により深い睡眠が減少し、夜間覚醒が増加する。眠りが浅くなり入眠困難も生じやすい。",
+    "zh_explanation": "随年龄增长深度睡眠减少，夜间觉醒增加。睡眠变浅，易发生入睡困难。",
+    "term_refs": [],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "睡眠と休息"
+  },
+  {
+    "id": "sk026",
+    "subject": "こころとからだのしくみ",
+    "question": "高齢者のバイタルサインの特徴として、正しいものはどれか。",
+    "choices": [
+      "体温調節機能が低下する",
+      "脈拍が速くなる",
+      "血圧が常に低い",
+      "呼吸数が増加する"
+    ],
+    "correct": 0,
+    "ja_explanation": "加齢により体温調節機能が低下するため、体温変動に注意が必要。脈拍や血圧には個人差が大きい。",
+    "zh_explanation": "随年龄增长体温调节功能下降，需注意体温变化。脉搏和血压个体差异较大。",
+    "term_refs": [
+      "バイタルサイン"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill",
+    "category": "バイタルサイン"
+  },
+  {
+    "id": "sk027",
+    "subject": "こころとからだのしくみ",
+    "question": "高齢者の脱水予防策として、最も適切なものはどれか。",
+    "choices": [
+      "水分を控える",
+      "こまめに水分摂取を促す",
+      "塩分を多く摂る",
+      "食事を抜く"
+    ],
+    "correct": 1,
+    "ja_explanation": "高齢者は喉の渇きを感じにくいため、こまめな水分摂取の促しが必要。1日1.5L程度の水分摂取が推奨される。",
+    "zh_explanation": "老年人不易感到口渴，需频繁督促补充水分。建议每日摄入约1.5L水分。",
+    "term_refs": [
+      "脱水"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "栄養と水分"
+  },
+  {
+    "id": "sk028",
+    "subject": "コミュニケーション技術",
+    "question": "介護におけるコミュニケーションで最も重要な態度はどれか。",
+    "choices": [
+      "一方的に指示を出す",
+      "利用者の話を最後まで傾聴する",
+      "早口で多くの情報を伝える",
+      "利用者の話を遮って職員の意見を言う"
+    ],
+    "correct": 1,
+    "ja_explanation": "利用者との信頼関係構築には傾聴が最も重要である。",
+    "zh_explanation": "倾听是与利用者建立信任关系最重要的方式。",
+    "term_refs": [
+      "傾聴"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "コミュニケーションの基本"
+  },
+  {
+    "id": "sk029",
+    "subject": "コミュニケーション技術",
+    "question": "非言語コミュニケーションに該当するものはどれか。",
+    "choices": [
+      "言葉での説明",
+      "電話での連絡",
+      "うなずきやアイコンタクト",
+      "文書での報告"
+    ],
+    "correct": 2,
+    "ja_explanation": "表情、うなずき、アイコンタクト、身振りなどの言葉を使わない表現が非言語コミュニケーションである。",
+    "zh_explanation": "表情、点头、眼神接触、手势等不使用语言的表达方式属于非语言沟通。",
+    "term_refs": [
+      "非言語コミュニケーション"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "コミュニケーションの基本"
+  },
+  {
+    "id": "sk030",
+    "subject": "コミュニケーション技術",
+    "question": "認知症の利用者が「財布を盗まれた」と訴える場合の対応として、最も適切なものはどれか。",
+    "choices": [
+      "「そんなことはありません」と否定する",
+      "まず気持ちを受け止め、一緒に探す",
+      "黙って無視する",
+      "「嘘をついてはいけません」と叱る"
+    ],
+    "correct": 1,
+    "ja_explanation": "認知症によるもの忘れの場合、否定すると不安や混乱が強まる。まず気持ちを受け止め共感する姿勢が大切。",
+    "zh_explanation": "认知症导致的健忘，否定会加剧不安和混乱。先接纳感受、表示理解的态度很重要。",
+    "term_refs": [
+      "認知症",
+      "BPSD"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill",
+    "category": "認知症のコミュニケーション"
+  },
+  {
+    "id": "sk031",
+    "subject": "コミュニケーション技術",
+    "question": "バリデーション（Validation）療法の考え方として、最も適切なものはどれか。",
+    "choices": [
+      "現実を強制的に認識させる",
+      "否定せずに感情を受け止める",
+      "薬物で症状を抑える",
+      "身体を拘束する"
+    ],
+    "correct": 1,
+    "ja_explanation": "バリデーションは認知症の人の言動を否定せず、その感情を認め受け止めることで安心感を提供する技法である。",
+    "zh_explanation": "确认疗法是一种不否定认知症患者的言行，认可其情感以提供安全感的技巧。",
+    "term_refs": [
+      "バリデーション"
+    ],
+    "difficulty": "advanced",
+    "examType": "skill",
+    "category": "認知症のコミュニケーション"
+  },
+  {
+    "id": "sk032",
+    "subject": "コミュニケーション技術",
+    "question": "介助時の声かけのタイミングとして、最も適切なものはどれか。",
+    "choices": [
+      "黙って介助を始める",
+      "いきなり体に触れてから声をかける",
+      "これから行うことを伝えてから介助を始める",
+      "介助が終わってから声をかける"
+    ],
+    "correct": 2,
+    "ja_explanation": "これから行う内容を事前に伝えてから介助を始めることが重要。利用者のペースに合わせる。",
+    "zh_explanation": "应事先告知即将进行的内容后再开始护理。需配合利用者的节奏。",
+    "term_refs": [],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "声かけと介助"
+  },
+  {
+    "id": "sk033",
+    "subject": "コミュニケーション技術",
+    "question": "介護現場での効果的なチームコミュニケーションの方法として最も適切なものはどれか。",
+    "choices": [
+      "口頭でのみ情報を伝える",
+      "申し送りや記録を活用し情報を共有する",
+      "自分だけが知っていればよい",
+      "全ての利用者情報を書かない"
+    ],
+    "correct": 1,
+    "ja_explanation": "記録や申し送りによる情報共有が不可欠。一貫したケアのために職員間の連携が重要。",
+    "zh_explanation": "通过记录和交接进行信息共享不可或缺。为提供一致的照护，职员间协作很重要。",
+    "term_refs": [
+      "申し送り"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "チームコミュニケーション"
+  },
+  {
+    "id": "sk034",
+    "subject": "コミュニケーション技術",
+    "question": "利用者の家族とのコミュニケーションで適切なものはどれか。",
+    "choices": [
+      "家族の意見は聞かない",
+      "介護に関する情報を定期的に提供する",
+      "全てを施設に任せてもらう",
+      "家族の来訪を制限する"
+    ],
+    "correct": 1,
+    "ja_explanation": "家族とは定期的に情報共有し、利用者の状態やケア内容について説明し協力関係を築く。",
+    "zh_explanation": "应定期与家属分享信息，说明利用者的状况和护理内容，建立协作关系。",
+    "term_refs": [],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "家族とのコミュニケーション"
+  },
+  {
+    "id": "sk035",
+    "subject": "コミュニケーション技術",
+    "question": "外国人介護職員とのチーム連携で重要なことはどれか。",
+    "choices": [
+      "母国語だけを使うよう指示する",
+      "わかりやすい日本語を使い必要に応じて視覚的ツールも活用する",
+      "責任のある仕事は任せない",
+      "日本人職員だけで判断する"
+    ],
+    "correct": 1,
+    "ja_explanation": "多文化共生の職場では、わかりやすい言語と視覚的ツールの活用、相互理解が重要。",
+    "zh_explanation": "在多元文化共存的职场中，使用易懂的语言和视觉工具、相互理解非常重要。",
+    "term_refs": [],
+    "difficulty": "intermediate",
+    "examType": "skill",
+    "category": "異文化コミュニケーション"
+  },
+  {
+    "id": "sk036",
+    "subject": "生活支援技術",
+    "question": "食事介助の際の基本姿勢として、最も適切なものはどれか。",
+    "choices": [
+      "利用者を寝かせたまま食べさせる",
+      "利用者の目線の高さで向かい合う",
+      "後ろから食べ物を口に入れる",
+      "テレビを見ながら食べさせる"
+    ],
+    "correct": 1,
+    "ja_explanation": "食事介助では利用者と同じ目線の高さで向かい合い、コミュニケーションを取りながら行う。",
+    "zh_explanation": "进食护理时应与利用者保持同一视线水平面对面，边沟通边进行。",
+    "term_refs": [
+      "食事介助"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "食事介助"
+  },
+  {
+    "id": "sk037",
+    "subject": "生活支援技術",
+    "question": "誤嚥を防ぐための食事の工夫として、適切なものはどれか。",
+    "choices": [
+      "水分の多い食品のみにする",
+      "とろみをつける",
+      "固形物だけにする",
+      "味付けを濃くする"
+    ],
+    "correct": 1,
+    "ja_explanation": "誤嚥予防には、飲み物にとろみをつけたり、食べ物を適切な大きさや柔らかさに調整することが有効。",
+    "zh_explanation": "预防误吸可通过给饮料增稠、将食物调整为适当大小和柔软度来应对。",
+    "term_refs": [
+      "誤嚥",
+      "とろみ"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "食事介助"
+  },
+  {
+    "id": "sk038",
+    "subject": "生活支援技術",
+    "question": "入浴介助において最も注意すべきことはどれか。",
+    "choices": [
+      "長い時間湯につかる",
+      "急激な温度変化によるヒートショックを防ぐ",
+      "食事直後に入浴する",
+      "一人で入浴させる"
+    ],
+    "correct": 1,
+    "ja_explanation": "高齢者は温度変化による血圧変動（ヒートショック）を起こしやすい。脱衣所や浴室の温度を適切に保つ。",
+    "zh_explanation": "老年人容易因温度变化引起血压波动（热休克）。需保持更衣室和浴室温度适宜。",
+    "term_refs": [
+      "ヒートショック"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "入浴介助"
+  },
+  {
+    "id": "sk039",
+    "subject": "生活支援技術",
+    "question": "清拭（せいしき）を行う主な目的はどれか。",
+    "choices": [
+      "全身浴の代わり",
+      "清潔を保ち皮膚の健康を守る",
+      "運動不足の解消",
+      "水分補給"
+    ],
+    "correct": 1,
+    "ja_explanation": "清拭は全身入浴が難しい場合に、清潔を保ち皮膚の健康を守るために行う重要なケアである。",
+    "zh_explanation": "擦拭身体是在无法全身沐浴时保持清洁、维护皮肤健康的重要护理措施。",
+    "term_refs": [
+      "清拭"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "入浴介助"
+  },
+  {
+    "id": "sk040",
+    "subject": "生活支援技術",
+    "question": "高齢者の便秘予防として、最も効果的なものはどれか。",
+    "choices": [
+      "食事を減らす",
+      "適度な運動と食物繊維の摂取",
+      "水分制限",
+      "下剤の常用"
+    ],
+    "correct": 1,
+    "ja_explanation": "便秘予防には適度な運動、食物繊維の摂取、十分な水分摂取が効果的。下剤の常用は避ける。",
+    "zh_explanation": "预防便秘应适量运动、摄入膳食纤维和充足水分。避免常用泻药。",
+    "term_refs": [
+      "便秘"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "排泄介助"
+  },
+  {
+    "id": "sk041",
+    "subject": "生活支援技術",
+    "question": "おむつ交換時の感染予防策として、最も重要なものはどれか。",
+    "choices": [
+      "手袋をせずに行う",
+      "交換前後の手洗いと手袋の着用",
+      "古いおむつをそのまま放置する",
+      "同じ手袋で複数の利用者をケアする"
+    ],
+    "correct": 1,
+    "ja_explanation": "排泄介助では交換前後の手洗いと手袋着用が必須。利用者ごとに手袋を交換し感染を防ぐ。",
+    "zh_explanation": "排泄护理前后洗手和戴手套是必须的。每名利用者需更换手套以防感染。",
+    "term_refs": [
+      "感染対策"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "排泄介助"
+  },
+  {
+    "id": "sk042",
+    "subject": "生活支援技術",
+    "question": "車いすからベッドへの移乗介助で基本となるのはどれか。",
+    "choices": [
+      "利用者の背中を押すだけで移す",
+      "利用者の残存能力を活かし、声かけをして安全に移乗する",
+      "車いすをベッドから離して行う",
+      "利用者の足を床につけない"
+    ],
+    "correct": 1,
+    "ja_explanation": "移乗介助では利用者の残存能力を活かし、声かけをして協力を得ながら安全に行う。",
+    "zh_explanation": "移乘护理应发挥利用者的残余能力，通过沟通获得配合后安全进行。",
+    "term_refs": [
+      "移乗"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "移動介助"
+  },
+  {
+    "id": "sk043",
+    "subject": "生活支援技術",
+    "question": "車いすのブレーキをかけるタイミングとして、適切なものはどれか。",
+    "choices": [
+      "走行中はずっとかける",
+      "移乗時や停止時に必ずかける",
+      "下り坂だけかける",
+      "かける必要はない"
+    ],
+    "correct": 1,
+    "ja_explanation": "車いすのブレーキは移乗時と停止時に必ずかける。転倒防止に不可欠。",
+    "zh_explanation": "轮椅刹车在移乘和停止时必须锁定。防止跌倒不可或缺。",
+    "term_refs": [],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "移動介助"
+  },
+  {
+    "id": "sk044",
+    "subject": "生活支援技術",
+    "question": "歩行が不安定な高齢者の歩行介助で適切なのはどれか。",
+    "choices": [
+      "後ろから介助する",
+      "横に寄り添い、必要に応じて腕を支える",
+      "前に立ち引っ張る",
+      "歩行器を使わせず一人で歩かせる"
+    ],
+    "correct": 1,
+    "ja_explanation": "歩行介助では横に寄り添い、必要に応じて腕や肘を支え、利用者の歩行リズムに合わせる。",
+    "zh_explanation": "步行护理时应从旁陪伴，必要时支撑手臂或肘部，配合利用者的走路节奏。",
+    "term_refs": [],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "移動介助"
+  },
+  {
+    "id": "sk045",
+    "subject": "生活支援技術",
+    "question": "更衣介助で適切なものはどれか。",
+    "choices": [
+      "片麻痺のある場合、麻痺側から脱がせ、健側から着せる",
+      "片麻痺のある場合、健側から脱がせ、麻痺側から着せる",
+      "麻痺の有無は関係ない",
+      "脱ぐ時も着る時も麻痺側から行う"
+    ],
+    "correct": 0,
+    "ja_explanation": "片麻痺の場合、脱衣は麻痺側（動かない側）から、着衣は健側（動く側）から行うのが基本。",
+    "zh_explanation": "偏瘫情况下，脱衣从瘫痪侧开始，穿衣从健侧开始是基本原则。",
+    "term_refs": [
+      "片麻痺"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill",
+    "category": "着脱介助"
+  },
+  {
+    "id": "sk046",
+    "subject": "生活支援技術",
+    "question": "高齢者の口腔ケアの目的として、最も適切なものはどれか。",
+    "choices": [
+      "見た目を良くするためだけ",
+      "誤嚥性肺炎の予防と口腔衛生の維持",
+      "食べ物の味を良くする",
+      "歯を白くする"
+    ],
+    "correct": 1,
+    "ja_explanation": "口腔ケアは誤嚥性肺炎予防、口腔衛生維持、そして摂食機能の維持に重要。全身の健康にも影響する。",
+    "zh_explanation": "口腔护理对预防误吸性肺炎、维持口腔卫生和保护进食功能非常重要，也影响全身健康。",
+    "term_refs": [
+      "口腔ケア"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "口腔ケア"
+  },
+  {
+    "id": "sk047",
+    "subject": "生活支援技術",
+    "question": "義歯（入れ歯）のケアで適切なものはどれか。",
+    "choices": [
+      "義歯を付けたまま歯磨きをする",
+      "義歯は外してブラシで洗い、就寝時は水に浸けて保管する",
+      "熱湯で消毒する",
+      "洗剤で洗う"
+    ],
+    "correct": 1,
+    "ja_explanation": "義歯は外してブラシで洗い、就寝時は水または義歯洗浄液に浸けて保管する。熱湯は変形の原因。",
+    "zh_explanation": "假牙应取下用刷子清洗，就寝时浸泡在水中或假牙清洗液中。热水会导致变形。",
+    "term_refs": [
+      "義歯"
+    ],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "口腔ケア"
+  },
+  {
+    "id": "sk048",
+    "subject": "生活支援技術",
+    "question": "寝たきりの高齢者の褥瘡（床ずれ）予防で最も効果的なのはどれか。",
+    "choices": [
+      "固いマットレスを使う",
+      "2時間ごとの体位変換",
+      "頻繁に全身浴をする",
+      "栄養は気にしなくてよい"
+    ],
+    "correct": 1,
+    "ja_explanation": "褥瘡予防には2時間ごとの体位変換が最も効果的。体圧分散マットレスや栄養管理も併せて重要。",
+    "zh_explanation": "预防压疮最有效的是每2小时进行体位变换。配合减压床垫和营养管理也很重要。",
+    "term_refs": [
+      "褥瘡"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill",
+    "category": "体位変換"
+  },
+  {
+    "id": "sk049",
+    "subject": "生活支援技術",
+    "question": "仰臥位（あお向け）から側臥位（横向き）に体位変換する際の注意点はどれか。",
+    "choices": [
+      "勢いよく回転させる",
+      "利用者の身体をまっすぐに保ち、腰や肩を支えて安全に行う",
+      "利用者の手足を引っ張る",
+      "上半身だけ回す"
+    ],
+    "correct": 1,
+    "ja_explanation": "体位変換では利用者の身体のラインを整え、関節に負担がかからないよう支えながら安全に行う。",
+    "zh_explanation": "体位变换应保持利用者的身体轴线，在不增加关节负担的前提下安全操作。",
+    "term_refs": [],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "体位変換"
+  },
+  {
+    "id": "sk050",
+    "subject": "生活支援技術",
+    "question": "高齢者の良質な睡眠を促すためのケアとして、適切なものはどれか。",
+    "choices": [
+      "昼間に長く寝かせる",
+      "就寝前にカフェインを摂取する",
+      "日中の活動と規則正しい生活リズムを促す",
+      "寝室を明るくする"
+    ],
+    "correct": 2,
+    "ja_explanation": "規則正しい生活リズム、日中の適度な活動、就寝前のリラックスが良質な睡眠を促す。",
+    "zh_explanation": "规律的生活节奏、白天的适度活动、就寝前放松有助于促进优质睡眠。",
+    "term_refs": [],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "睡眠介助"
+  },
+  {
+    "id": "sk051",
+    "subject": "生活支援技術",
+    "question": "終末期の利用者へのケアで最も重要なことはどれか。",
+    "choices": [
+      "積極的な治療を続ける",
+      "その人らしさを尊重し、苦痛の緩和に努める",
+      "家族の面会を制限する",
+      "施設を退去してもらう"
+    ],
+    "correct": 1,
+    "ja_explanation": "終末期ケアでは、利用者の尊厳を守り、苦痛を緩和し、その人らしい最期を支えることが重要。",
+    "zh_explanation": "终末期护理应维护利用者尊严、缓解痛苦、支持其有尊严地走完人生最后阶段。",
+    "term_refs": [
+      "ターミナルケア"
+    ],
+    "difficulty": "advanced",
+    "examType": "skill",
+    "category": "ターミナルケア"
+  },
+  {
+    "id": "sk052",
+    "subject": "生活支援技術",
+    "question": "終末期の利用者の疼痛緩和で用いられるのはどれか。",
+    "choices": [
+      "運動療法",
+      "薬物療法（鎮痛薬の使用）",
+      "拘束",
+      "食事制限"
+    ],
+    "correct": 1,
+    "ja_explanation": "終末期の疼痛緩和には薬物療法が中心となる。医師の指示のもと適切な鎮痛薬を使用する。",
+    "zh_explanation": "终末期疼痛缓解以药物疗法为中心。在医生指导下使用适当的镇痛药。",
+    "term_refs": [
+      "ターミナルケア"
+    ],
+    "difficulty": "advanced",
+    "examType": "skill",
+    "category": "ターミナルケア"
+  },
+  {
+    "id": "sk053",
+    "subject": "生活支援技術",
+    "question": "介護施設でのレクリエーション活動の目的として、適切なものはどれか。",
+    "choices": [
+      "時間をつぶすためだけ",
+      "心身機能の維持・向上と社会的交流の促進",
+      "職員の負担軽減",
+      "利用者を疲れさせる"
+    ],
+    "correct": 1,
+    "ja_explanation": "レクリエーションは楽しみながら心身機能の維持向上、社会的交流、生活の質の向上を目的とする。",
+    "zh_explanation": "康复娱乐活动旨在通过乐趣维持提升身心功能、促进社会交流、提高生活质量。",
+    "term_refs": [],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "レクリエーション"
+  },
+  {
+    "id": "sk054",
+    "subject": "生活支援技術",
+    "question": "介護記録のSOAP形式の「S」は何を表すか。",
+    "choices": [
+      "解決策",
+      "主観的情報（利用者の訴えなど）",
+      "客観的情報",
+      "計画"
+    ],
+    "correct": 1,
+    "ja_explanation": "SOAP形式ではS=主観的情報（利用者の言葉）、O=客観的情報（観察事実）、A=評価、P=計画。",
+    "zh_explanation": "SOAP格式中S=主观信息（利用者陈述）、O=客观信息（观察事实）、A=评估、P=计划。",
+    "term_refs": [
+      "SOAP"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill",
+    "category": "記録と報告"
+  },
+  {
+    "id": "sk055",
+    "subject": "生活支援技術",
+    "question": "介護記録で「客観的事実を記載する」とはどういう意味か。",
+    "choices": [
+      "職員の感想を書く",
+      "観察した事実をありのままに書く",
+      "利用者の噂話を書く",
+      "他の職員の評価を書く"
+    ],
+    "correct": 1,
+    "ja_explanation": "客観的事実とは、観察して確認できた事実（食事量、表情、バイタルサインなど）をありのままに記載すること。",
+    "zh_explanation": "客观事实是指将观察确认的事实（食量、表情、生命体征等）如实记录。",
+    "term_refs": [],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "記録と報告"
+  },
+  {
+    "id": "sk056",
+    "subject": "介護の基本",
+    "question": "ノロウイルス感染症が発生した場合の対応として、適切なものはどれか。",
+    "choices": [
+      "通常の清掃でよい",
+      "次亜塩素酸ナトリウムで消毒する",
+      "アルコール消毒のみで十分",
+      "換気を止める"
+    ],
+    "correct": 1,
+    "ja_explanation": "ノロウイルスにはアルコールが効きにくい。次亜塩素酸ナトリウムによる消毒が有効。",
+    "zh_explanation": "诺如病毒对酒精不敏感。次氯酸钠消毒有效。",
+    "term_refs": [
+      "ノロウイルス"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill",
+    "category": "感染対策"
+  },
+  {
+    "id": "sk057",
+    "subject": "介護の基本",
+    "question": "介護現場での手指衛生のタイミングとして、適切でないものはどれか。",
+    "choices": [
+      "利用者との接触前",
+      "利用者との接触後",
+      "グローブを装着したままで次の利用者へ",
+      "清潔・不潔な部位の間"
+    ],
+    "correct": 2,
+    "ja_explanation": "手指衛生は利用者ごと、同じ利用者でも清潔と不潔な部位の間に行う。グローブは使い捨てが原則。",
+    "zh_explanation": "手部卫生应在每名利用者之间、同一利用者的清洁和污染部位之间进行。手套应一次性使用。",
+    "term_refs": [],
+    "difficulty": "intermediate",
+    "examType": "skill",
+    "category": "感染対策"
+  },
+  {
+    "id": "sk058",
+    "subject": "生活支援技術",
+    "question": "経口摂取が困難な利用者への栄養補給方法として、適切なものはどれか。",
+    "choices": [
+      "無理に口から食べさせる",
+      "経管栄養（胃ろうや経鼻栄養）を医師の指示で行う",
+      "食事を全て抜く",
+      "水だけ与える"
+    ],
+    "correct": 1,
+    "ja_explanation": "経口摂取が困難な場合、医師の指示のもと経管栄養など代替の栄養補給方法を選択する。",
+    "zh_explanation": "经口摄入困难时，应在医生指导下选择管饲（胃造瘘或鼻饲）等替代营养补给方式。",
+    "term_refs": [
+      "経管栄養"
+    ],
+    "difficulty": "advanced",
+    "examType": "skill",
+    "category": "食事介助"
+  },
+  {
+    "id": "sk059",
+    "subject": "生活支援技術",
+    "question": "歩行器を使用する利用者の転倒予防で最も重要なのはどれか。",
+    "choices": [
+      "歩行器の高さを利用者に合わせて調整する",
+      "歩行器を押してもらう",
+      "階段で使用する",
+      "片手だけで歩行器を使う"
+    ],
+    "correct": 0,
+    "ja_explanation": "歩行器の高さ調整は転倒予防の基本。利用者の身長や腕の長さに合わせ、適切な高さに設定する。",
+    "zh_explanation": "助行器高度调整是预防跌倒的基础。需根据利用者的身高和臂长设置适当高度。",
+    "term_refs": [],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "移動介助"
+  },
+  {
+    "id": "sk060",
+    "subject": "生活支援技術",
+    "question": "ポータブルトイレを使用する際の環境整備として最も適切なものはどれか。",
+    "choices": [
+      "暗い場所に設置する",
+      "周囲に目隠しを設置しプライバシーに配慮する",
+      "ドアを開け放つ",
+      "廊下に面して設置する"
+    ],
+    "correct": 1,
+    "ja_explanation": "ポータブルトイレはプライバシーに配慮し、目隠しを設置する。また、手すりや呼び鈴の設置も重要。",
+    "zh_explanation": "移动便器应考虑隐私设置遮挡。同时安装扶手和呼叫铃也很重要。",
+    "term_refs": [],
+    "difficulty": "basic",
+    "examType": "skill",
+    "category": "排泄介助"
+  },
+  {
+    "id": "sk061",
+    "subject": "実技判断試験",
+    "question": "【写真問題】食事介助の場面で最も適切な姿勢はどれか。",
+    "choices": [
+      "ベッドに寝かせたまま食べさせる",
+      "車いすに座らせ、やや前傾姿勢で食べる",
+      "立ったまま食べる",
+      "いすに深くもたれかかって食べる"
+    ],
+    "correct": 1,
+    "ja_explanation": "食事は車いすやいすに座り、やや前傾姿勢で行うと嚥下しやすく、誤嚥防止にもなる。",
+    "zh_explanation": "进餐时应坐在轮椅或椅子上，身体稍前倾，便于吞咽且预防误吸。",
+    "term_refs": [
+      "食事介助"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill",
+    "category": "実技判断"
+  },
+  {
+    "id": "sk062",
+    "subject": "実技判断試験",
+    "question": "【判断問題】ベッド上で体位変換を行う際、ずれや摩擦を減らすための方法として適切なものはどれか。",
+    "choices": [
+      "利用者の身体を引きずる",
+      "リネンやスライディングシートを活用する",
+      "直接皮膚を持って引っ張る",
+      "勢いよく回転させる"
+    ],
+    "correct": 1,
+    "ja_explanation": "体位変換ではリネンやスライディングシートを使い、摩擦とずれを最小限にして皮膚を保護する。",
+    "zh_explanation": "体位变换时应使用布单或滑动垫，将摩擦和剪切力降至最低以保护皮肤。",
+    "term_refs": [
+      "体位変換"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill",
+    "category": "実技判断"
+  },
+  {
+    "id": "sk063",
+    "subject": "実技判断試験",
+    "question": "【判断問題】認知症の利用者が興奮している場面での対応として適切なものはどれか。",
+    "choices": [
+      "大声で制止する",
+      "落ち着いた声で話しかけ、安全な距離を保つ",
+      "身体を拘束する",
+      "その場に置き去りにする"
+    ],
+    "correct": 1,
+    "ja_explanation": "興奮時は落ち着いた声かけと安全な距離の確保が重要。まずは感情を受け止め、気持ちが落ち着くのを待つ。",
+    "zh_explanation": "兴奋时应以平静的声音说话并保持安全距离。先接纳其情感，等待情绪平复。",
+    "term_refs": [
+      "BPSD"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill",
+    "category": "実技判断"
+  },
+  {
+    "id": "sk064",
+    "subject": "実技判断試験",
+    "question": "【判断問題】歩行介助中に利用者がふらついた場合の対応として正しいものはどれか。",
+    "choices": [
+      "その場を離れて助けを呼ぶ",
+      "介護職員が自分の足を広げて支え、安全に座らせる",
+      "後ろから引っ張る",
+      "利用者の腕を強く引く"
+    ],
+    "correct": 1,
+    "ja_explanation": "ふらついた時は介護職員が安定した姿勢で利用者を支え、安全に座らせる。転倒防止が最優先。",
+    "zh_explanation": "摇晃时应以稳定的姿势支撑利用者，安全地让其坐下。防止跌倒最优先。",
+    "term_refs": [],
+    "difficulty": "intermediate",
+    "examType": "skill",
+    "category": "実技判断"
+  },
+  {
+    "id": "sk065",
+    "subject": "実技判断試験",
+    "question": "【判断問題】ベッドから車いすへの移乗で、車いすの適切な位置はどこか。",
+    "choices": [
+      "ベッドから遠く離れた場所",
+      "ベッドに対して30〜45度の角度で配置",
+      "利用者の頭側",
+      "ベッドと並行に遠く離して置く"
+    ],
+    "correct": 1,
+    "ja_explanation": "移乗時の車いすはベッドに対して30〜45度の角度に配置し、ブレーキをかけ、フットレストを上げる。",
+    "zh_explanation": "移乘时轮椅与床呈30〜45度角放置，锁定刹车，收起脚踏板。",
+    "term_refs": [
+      "移乗"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill",
+    "category": "実技判断"
+  },
+  {
+    "id": "sk066",
+    "subject": "生活支援技術",
+    "category": "移動介助",
+    "question": "歩行器を使用する際の高さ調整の目安として、正しいものはどれか。",
+    "choices": [
+      "腰の高さより高くする",
+      "手首の高さに合わせる",
+      "胸の高さにする",
+      "床すれすれにする"
+    ],
+    "correct": 1,
+    "ja_explanation": "歩行器の高さは、利用者が自然に腕を下ろした時の手首の高さが目安。適切な高さで転倒予防。",
+    "zh_explanation": "助行器高度以利用者自然垂臂时的手腕高度为基准。合适高度可防跌倒。",
+    "term_refs": [],
+    "difficulty": "basic",
+    "examType": "skill"
+  },
+  {
+    "id": "sk067",
+    "subject": "生活支援技術",
+    "category": "食事介助",
+    "question": "食事の際の姿勢で誤嚥予防に効果的なのはどれか。",
+    "choices": [
+      "完全に仰向け",
+      "前かがみ（顎を引いた姿勢）",
+      "横向き",
+      "後ろに大きくのけぞる"
+    ],
+    "correct": 1,
+    "ja_explanation": "食事時は顎を引いた前かがみの姿勢が、気管を閉じやすくし誤嚥予防に効果的。",
+    "zh_explanation": "进餐时下巴微收的前倾姿势有助于关闭气管，预防误吸。",
+    "term_refs": [
+      "誤嚥"
+    ],
+    "difficulty": "basic",
+    "examType": "skill"
+  },
+  {
+    "id": "sk068",
+    "subject": "生活支援技術",
+    "category": "排泄介助",
+    "question": "高齢者の排尿障害で頻尿が見られる場合の対応として適切なのはどれか。",
+    "choices": [
+      "水分摂取を制限する",
+      "トイレの回数を増やし、行きやすい環境を整える",
+      "夜間はおむつを勧めない",
+      "利尿剤を自己判断で飲む"
+    ],
+    "correct": 1,
+    "ja_explanation": "頻尿の場合、水分制限は逆効果。トイレに行きやすい環境（暖かく明るい、手すり設置など）を整える。",
+    "zh_explanation": "尿频时限制水分反而有害。应改善厕所环境（温暖明亮、安装扶手等）。",
+    "term_refs": [],
+    "difficulty": "intermediate",
+    "examType": "skill"
+  },
+  {
+    "id": "sk069",
+    "subject": "生活支援技術",
+    "category": "睡眠介助",
+    "question": "高齢者の入眠を促すための環境調整として適切なのはどれか。",
+    "choices": [
+      "寝室を明るくする",
+      "室温を高めに設定する",
+      "就寝前にカフェインを摂らない",
+      "寝る前に激しい運動をする"
+    ],
+    "correct": 2,
+    "ja_explanation": "入眠促進には静かで暗い環境、適切な室温、カフェイン回避が有効。就寝前のリラックスも重要。",
+    "zh_explanation": "促进入睡需要安静昏暗的环境、适宜室温、避免咖啡因。就寝前放松也很重要。",
+    "term_refs": [],
+    "difficulty": "basic",
+    "examType": "skill"
+  },
+  {
+    "id": "sk070",
+    "subject": "生活支援技術",
+    "category": "入浴介助",
+    "question": "高齢者の入浴時の血圧変動を防ぐ方法として最も適切なのはどれか。",
+    "choices": [
+      "いきなり湯船に入る",
+      "脱衣所と浴室を温めてから入浴する",
+      "長風呂をする",
+      "水風呂と交代で入る"
+    ],
+    "correct": 1,
+    "ja_explanation": "脱衣所と浴室の温度差をなくすことでヒートショックを予防。事前に暖房やシャワーで温める。",
+    "zh_explanation": "消除更衣室和浴室的温差可预防热休克。提前用暖气或淋浴预热。",
+    "term_refs": [
+      "ヒートショック"
+    ],
+    "difficulty": "basic",
+    "examType": "skill"
+  },
+  {
+    "id": "sk071",
+    "subject": "生活支援技術",
+    "category": "着脱介助",
+    "question": "寝たままの状態で更衣介助を行う際の原則として適切なものはどれか。",
+    "choices": [
+      "首元から一気に脱がせる",
+      "麻痺側→健側の順に脱がせ、健側→麻痺側の順に着せる",
+      "健側から脱がせ、麻痺側から着せる",
+      "順番はどちらでも構わない"
+    ],
+    "correct": 1,
+    "ja_explanation": "寝たきりでの更衣も、脱衣は麻痺側から、着衣は健側からが基本。関節に負担をかけない。",
+    "zh_explanation": "卧床更衣同样遵循「脱衣从瘫痪侧、穿衣从健侧」的原则。不增加关节负担。",
+    "term_refs": [
+      "片麻痺"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill"
+  },
+  {
+    "id": "sk072",
+    "subject": "生活支援技術",
+    "category": "口腔ケア",
+    "question": "口腔内の乾燥（ドライマウス）の予防・対策として適切なのはどれか。",
+    "choices": [
+      "口腔内をアルコールで洗う",
+      "こまめな水分補給と保湿ジェルの使用",
+      "歯磨きを控える",
+      "刺激の強い歯磨き粉を使う"
+    ],
+    "correct": 1,
+    "ja_explanation": "ドライマウス予防にはこまめな水分補給、保湿ジェル、口腔ケアが有効。唾液の分泌を促すケアも。",
+    "zh_explanation": "预防口腔干燥需频繁补水、使用保湿凝胶并进行口腔护理。",
+    "term_refs": [
+      "ドライマウス"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill"
+  },
+  {
+    "id": "sk073",
+    "subject": "生活支援技術",
+    "category": "体位変換",
+    "question": "ベッド上で利用者を頭側に移動させる方法として適切なのはどれか。",
+    "choices": [
+      "一人で腋の下を引っ張る",
+      "シーツやリネンを利用してずらす",
+      "足だけを持って引く",
+      "頭を押す"
+    ],
+    "correct": 1,
+    "ja_explanation": "ベッド上での移動はシーツやリネンを活用し、摩擦を減らして安全に行う。二人以上で行うのが望ましい。",
+    "zh_explanation": "床上移乘应使用床单或布单减少摩擦、安全操作。最好两人以上配合。",
+    "term_refs": [],
+    "difficulty": "basic",
+    "examType": "skill"
+  },
+  {
+    "id": "sk074",
+    "subject": "生活支援技術",
+    "category": "ターミナルケア",
+    "question": "終末期の利用者の口腔ケアの目的として最も適切なのはどれか。",
+    "choices": [
+      "歯を白くするため",
+      "口臭予防と口腔内の清潔維持によるQOL向上",
+      "食事ができるようにするため",
+      "嚥下機能を回復させるため"
+    ],
+    "correct": 1,
+    "ja_explanation": "終末期の口腔ケアは口臭予防、口腔内の清潔維持によるQOL向上や誤嚥性肺炎予防に重要。",
+    "zh_explanation": "终末期口腔护理对预防口臭、维持口腔清洁提高生活质量以及预防误吸性肺炎很重要。",
+    "term_refs": [
+      "ターミナルケア"
+    ],
+    "difficulty": "advanced",
+    "examType": "skill"
+  },
+  {
+    "id": "sk075",
+    "subject": "生活支援技術",
+    "category": "感染対策",
+    "question": "標準予防策において、血液や体液に触れる可能性がある場合に必ず着用するのはどれか。",
+    "choices": [
+      "マスクのみ",
+      "手袋",
+      "ガウン",
+      "フェイスシールド"
+    ],
+    "correct": 1,
+    "ja_explanation": "血液や体液に触れる可能性がある場合は、手袋の着用が必須。状況に応じてマスクやガウンも併用。",
+    "zh_explanation": "可能接触血液或体液时，必须戴手套。根据情况同时佩戴口罩和防护服。",
+    "term_refs": [
+      "標準予防策"
+    ],
+    "difficulty": "basic",
+    "examType": "skill"
+  },
+  {
+    "id": "sk076",
+    "subject": "介護の基本",
+    "category": "チームアプローチ",
+    "question": "介護現場でのカンファレンス（会議）の目的として最も適切なのはどれか。",
+    "choices": [
+      "職員の雑談の場",
+      "利用者の情報共有とケア方針の検討",
+      "利用者を評価する場",
+      "職員の評価会"
+    ],
+    "correct": 1,
+    "ja_explanation": "カンファレンスは利用者の状態やケア方法について多職種で情報共有・検討する重要な場。",
+    "zh_explanation": "会议是多专业之间共享信息、讨论利用者状况和护理方法的重要场所。",
+    "term_refs": [
+      "カンファレンス"
+    ],
+    "difficulty": "basic",
+    "examType": "skill"
+  },
+  {
+    "id": "sk077",
+    "subject": "介護の基本",
+    "category": "介護保険制度",
+    "question": "介護保険で「予防給付」の対象となるのはどれか。",
+    "choices": [
+      "要介護1以上の人",
+      "要支援1・2と認定された人",
+      "全ての高齢者",
+      "40歳未満の人"
+    ],
+    "correct": 1,
+    "ja_explanation": "要支援1・2と認定された人は介護予防給付の対象となり、筋力向上や栄養改善などのサービスを受けられる。",
+    "zh_explanation": "被认定为要支援1・2级的人可享受介护预防给付，接受肌力提升和营养改善等服务。",
+    "term_refs": [
+      "介護保険"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill"
+  },
+  {
+    "id": "sk078",
+    "subject": "介護の基本",
+    "category": "職業倫理",
+    "question": "介護職員が利用者との関係で注意すべきこととして、適切なものはどれか。",
+    "choices": [
+      "プライベートで食事に行く",
+      "金銭の貸し借りをしない",
+      "SNSで利用者の写真を共有する",
+      "自宅の住所を教える"
+    ],
+    "correct": 1,
+    "ja_explanation": "利用者との金銭貸借は禁止。また、個人情報の保護や適切な距離感の維持も重要。",
+    "zh_explanation": "禁止与利用者金钱借贷。保护个人信息和保持适当距离也同样重要。",
+    "term_refs": [
+      "職業倫理"
+    ],
+    "difficulty": "basic",
+    "examType": "skill"
+  },
+  {
+    "id": "sk079",
+    "subject": "介護の基本",
+    "category": "権利擁護",
+    "question": "成年後見制度の目的として最も適切なものはどれか。",
+    "choices": [
+      "介護施設の管理",
+      "判断能力が不十分な人の財産管理と契約行為を支援する",
+      "高齢者の就労支援",
+      "医療費の負担軽減"
+    ],
+    "correct": 1,
+    "ja_explanation": "成年後見制度は認知症などで判断能力が不十分な人の財産管理や契約を支援し、権利を守る制度。",
+    "zh_explanation": "成年监护制度是为因认知症等导致判断能力不足的人提供财产管理和合同支援、保护其权利的制度。",
+    "term_refs": [
+      "成年後見制度"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill"
+  },
+  {
+    "id": "sk080",
+    "subject": "介護の基本",
+    "category": "緊急時対応",
+    "question": "介護施設での地震発生時の初期対応として最も優先すべきことはどれか。",
+    "choices": [
+      "すぐに外に飛び出す",
+      "利用者の安全確保（机の下などに避難）",
+      "消火活動",
+      "電気とガスを確認する"
+    ],
+    "correct": 1,
+    "ja_explanation": "地震時はまず身の安全を確保。机の下などに避難し、揺れが収まったら利用者の安全確認と避難誘導。",
+    "zh_explanation": "地震时首先确保人身安全。躲避到桌下等处，摇晃停止后确认利用者安全并引导疏散。",
+    "term_refs": [
+      "緊急時対応"
+    ],
+    "difficulty": "basic",
+    "examType": "skill"
+  },
+  {
+    "id": "sk081",
+    "subject": "こころとからだのしくみ",
+    "category": "認知症の理解",
+    "question": "アルツハイマー型認知症の特徴的な症状として正しいものはどれか。",
+    "choices": [
+      "症状が一日の中で変動する",
+      "もの忘れから始まり徐々に進行する",
+      "幻視が初期から顕著",
+      "手足の震えが主症状"
+    ],
+    "correct": 1,
+    "ja_explanation": "アルツハイマー型認知症はもの忘れから始まり、徐々に症状が進行するのが特徴。レビー小体型は幻視や症状変動が特徴。",
+    "zh_explanation": "阿尔茨海默型认知症以健忘开始、症状逐渐进展为特征。路易体型的特征是幻视和症状波动。",
+    "term_refs": [
+      "アルツハイマー型認知症"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill"
+  },
+  {
+    "id": "sk082",
+    "subject": "こころとからだのしくみ",
+    "category": "認知症の理解",
+    "question": "レビー小体型認知症の特徴的な症状として正しいものはどれか。",
+    "choices": [
+      "初期からの強いもの忘れ",
+      "具体的な人の幻視と症状の日内変動",
+      "感情の平板化",
+      "暴力行為のみ"
+    ],
+    "correct": 1,
+    "ja_explanation": "レビー小体型認知症は鮮明な幻視と日ごとの症状変動が特徴。パーキンソン症状を伴うことも多い。",
+    "zh_explanation": "路易体型认知症的特征是鲜明幻视和每日症状波动。常伴有帕金森症状。",
+    "term_refs": [
+      "レビー小体型認知症"
+    ],
+    "difficulty": "advanced",
+    "examType": "skill"
+  },
+  {
+    "id": "sk083",
+    "subject": "こころとからだのしくみ",
+    "category": "身体の構造と機能",
+    "question": "加齢による骨粗鬆症のリスク要因として正しいものはどれか。",
+    "choices": [
+      "適度な運動",
+      "閉経後の女性",
+      "カルシウムの十分な摂取",
+      "日光浴"
+    ],
+    "correct": 1,
+    "ja_explanation": "閉経後の女性は女性ホルモン減少により骨粗鬆症のリスクが高まる。カルシウム摂取と運動が予防に重要。",
+    "zh_explanation": "绝经后女性因雌性激素减少而骨质疏松风险升高。补钙和运动对预防很重要。",
+    "term_refs": [
+      "骨粗鬆症"
+    ],
+    "difficulty": "intermediate",
+    "examType": "skill"
+  },
+  {
+    "id": "sk084",
+    "subject": "こころとからだのしくみ",
+    "category": "心理的変化",
+    "question": "高齢者が退行行動（子どものような言動）を示す心理的要因として最も適切なのはどれか。",
+    "choices": [
+      "老化による性格変化のみ",
+      "不安や寂しさから安心感を求める心理",
+      "知的機能の低下のみ",
+      "意図的な迷惑行為"
+    ],
+    "correct": 1,
+    "ja_explanation": "退行行動は不安や寂しさなどから、より安心できる過去の状態に戻ろうとする心理的反応。理解と対応が大切。",
+    "zh_explanation": "退行行为是因不安和寂寞而产生的心理反应，试图回到更安心的过去状态。理解和对策很重要。",
+    "term_refs": [],
+    "difficulty": "intermediate",
+    "examType": "skill"
+  },
+  {
+    "id": "sk085",
+    "subject": "こころとからだのしくみ",
+    "category": "栄養と水分",
+    "question": "高齢者の低栄養を予防するための食事の工夫として適切なのはどれか。",
+    "choices": [
+      "食事量を減らす",
+      "栄養密度の高い食品を取り入れる",
+      "同じものだけを食べる",
+      "調味料を減らしすぎる"
+    ],
+    "correct": 1,
+    "ja_explanation": "低栄養予防には少量でも栄養価の高い食品（卵、豆腐、魚など）を取り入れ、バランスの良い食事が重要。",
+    "zh_explanation": "预防低营养应摄入少量但营养价值高的食物（鸡蛋、豆腐、鱼等），保持均衡饮食。",
+    "term_refs": [
+      "低栄養"
+    ],
+    "difficulty": "basic",
+    "examType": "skill"
+  },
+  {
+    "id": "sk086",
+    "subject": "コミュニケーション技術",
+    "category": "コミュニケーションの基本",
+    "question": "利用者の気持ちを引き出すための質問の仕方として適切なのはどれか。",
+    "choices": [
+      "「はい」「いいえ」で答えられる質問",
+      "「どう思いますか」など開かれた質問",
+      "誘導するような質問",
+      "反論を前提とした質問"
+    ],
+    "correct": 1,
+    "ja_explanation": "開かれた質問（オープンクエスチョン）は利用者の気持ちや考えを引き出しやすい。",
+    "zh_explanation": "开放式问题更容易引导利用者表达想法和感受。",
+    "term_refs": [],
+    "difficulty": "basic",
+    "examType": "skill"
+  },
+  {
+    "id": "sk087",
+    "subject": "コミュニケーション技術",
+    "category": "認知症のコミュニケーション",
+    "question": "認知症の利用者が食事を食べようとしない場合の対応として適切なのはどれか。",
+    "choices": [
+      "無理に口を開けさせる",
+      "食事を食べない理由を探り、個別に対応する",
+      "食事を取り上げる",
+      "他の利用者と比較して注意する"
+    ],
+    "correct": 1,
+    "ja_explanation": "食べない理由（味覚変化、口腔内の痛み、餐具の使いにくさなど）を探り、個別に対応することが大切。",
+    "zh_explanation": "应先探究不进食的原因（味觉变化、口腔疼痛、餐具不便等），个别应对。",
+    "term_refs": [],
+    "difficulty": "intermediate",
+    "examType": "skill"
+  },
+  {
+    "id": "sk088",
+    "subject": "コミュニケーション技術",
+    "category": "声かけと介助",
+    "question": "認知症の利用者に服薬介助を行う際の声かけとして適切なのはどれか。",
+    "choices": [
+      "「薬を飲みなさい」と命令する",
+      "「お口を潤してから、この水で一緒にお薬を飲みましょう」と優しく伝える",
+      "黙って薬を口に入れる",
+      "「飲まないと病気が治らないよ」と脅す"
+    ],
+    "correct": 1,
+    "ja_explanation": "穏やかな口調で具体的にこれから行うことを伝え、利用者のペースに合わせて介助する。",
+    "zh_explanation": "用温和的语气具体说明即将进行的内容，配合利用者的节奏进行护理。",
+    "term_refs": [],
+    "difficulty": "basic",
+    "examType": "skill"
+  },
+  {
+    "id": "sk089",
+    "subject": "実技判断試験",
+    "category": "実技判断",
+    "question": "【写真問題】移乗時に介護職員の基本的な姿勢として正しいものはどれか。",
+    "choices": [
+      "腰を曲げて行う",
+      "膝を曲げて腰を落とし、利用者に近づく",
+      "片手だけで行う",
+      "利用者から遠く離れて行う"
+    ],
+    "correct": 1,
+    "ja_explanation": "移乗介助では膝を曲げ腰を落とした安定した姿勢で行う。介護職員の腰痛予防にもなる。",
+    "zh_explanation": "移乘护理时应屈膝下蹲保持稳定姿势。也能预防介护职员腰痛。",
+    "term_refs": [],
+    "difficulty": "basic",
+    "examType": "skill"
+  },
+  {
+    "id": "sk090",
+    "subject": "実技判断試験",
+    "category": "実技判断",
+    "question": "【判断問題】認知症の利用者が食事中に立ち上がろうとした場合の対応として適切なのはどれか。",
+    "choices": [
+      "大きな声で「座ってください」と言う",
+      "「どこへ行かれますか？一緒に少し歩きましょうか」と声をかけ、気持ちを切り替える",
+      "そのまま放置する",
+      "身体を押さえつける"
+    ],
+    "correct": 1,
+    "ja_explanation": "まずは声をかけ気持ちを受け止め、安全に誘導する。無理に座らせようとすると興奮や混乱を招く。",
+    "zh_explanation": "先打招呼接纳感受，安全引导。强行按坐会引发兴奋和混乱。",
+    "term_refs": [],
+    "difficulty": "intermediate",
+    "examType": "skill"
   }
 ]

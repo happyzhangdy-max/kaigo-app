@@ -20,9 +20,10 @@ src/
 │   ├── terms.json   # 介護専門用語表（日/中/解説）
 │   └── useTranslation.ts
 ├── pages/           # 页面组件
-│   ├── Home.tsx     # 首页（Hello World 验证）
-│   ├── Exam.tsx     # 考试页面（预留）
-│   └── Settings.tsx # 设置页面（预留）
+│   ├── Home.tsx     # 首页（仪表盘 + 科目卡片）
+│   ├── Exam.tsx     # 答题页（出题 + 反馈 + 关联术语）
+│   ├── Glossary.tsx # 用语集（搜索 + 浏览）
+│   └── Settings.tsx # 设置（语言 / 主题 / 数据）
 ├── routes/          # 路由定义
 ├── components/      # 按功能模块分目录
 │   ├── common/      # 通用组件
@@ -55,6 +56,16 @@ npm run preview
 
 | 路径 | 页面 | 状态 |
 |------|------|------|
-| `/` | 首页 | ✅ 中日双语 Hello World |
-| `/exam` | 考试 | 📝 预留 |
-| `/settings` | 设置 | 📝 预留 |
+| `/` | 首页：考试类型切换 + 学习仪表盘 + 科目卡片 | ✅ |
+| `/exam` | 随机出题（可带 `?examType=`） | ✅ |
+| `/exam/:subject` | 科目別出题 | ✅ |
+| `/glossary` | 介护专门用语集（144 条，可搜索） | ✅ |
+| `/settings` | 语言 / 主题 / 数据管理 | ✅ |
+
+## 功能
+
+- 中日双语界面，一键切换（全局共享 + 持久化）
+- 亮/暗主题（跟随系统 / 手动），持久化
+- 一问一答 + 即时反馈 + 解説 + 关联术语
+- 书签收藏、IndexedDB 学习记录、科目別正答率仪表盘
+- PWA 离线可用（Service Worker 预缓存）

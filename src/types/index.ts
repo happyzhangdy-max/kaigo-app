@@ -17,6 +17,9 @@ export type Glossary = Record<string, TermEntry>;
 /** 题目难度 */
 export type Difficulty = 'basic' | 'intermediate' | 'advanced';
 
+/** 考试类型 */
+export type ExamType = 'national' | 'skill';
+
 /** 题目 */
 export interface Question {
   id: string;
@@ -29,6 +32,7 @@ export interface Question {
   zh_explanation: string;
   term_refs: string[];
   difficulty: Difficulty;
+  examType: ExamType;
 }
 
 /** 答题记录 */
